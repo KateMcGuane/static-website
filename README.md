@@ -105,6 +105,11 @@ Add your user stories here. You want to include first time visitors and returnin
 
 ### Colour Scheme
 
+I wanted the colour scheme pay homage to the staple yellow pages that existed as the main directory for businesses before the internet. I also wanted to illustrate variety, childhood and fun through the colour palette. 
+
+![Hobby Website Colour Palette]
+
+
 Add all information about your colour scheme for your site here. You can explain why you choose the colours you did?
 
 I like to include a palette of the colour scheme here, my favourite site for creating a colour palette is [coolors](https://coolors.co/), but there are lots of other sites that also do the same thing, like [ColorSpace](https://mycolor.space/?hex=%23F5F5F5&sub=1), [Muzli Colors](https://colors.muz.li/), [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) and [Canva](https://www.canva.com/colors/color-palette-generator/) to name a few.
@@ -224,15 +229,14 @@ The general format of my markup is based on the sample work by kera-cudmore.
 - readme-examples/milestone1-readme.md
 
 ### Code Used
-
 - I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application. 
 - 
 
 ### Content
-I wrote the majority of the content for the website myself. Credit is owed to the linked website owners, as I did take 
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+I wrote the majority of the content for the website myself. Credit is owed to the linked website owners.
 
 ###  Media
+- Favicon: I created the favicon with Canva. Their selection of artworks had more variety & compatibility for application as a favicon.
 
 If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
   
