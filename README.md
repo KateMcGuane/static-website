@@ -1,10 +1,11 @@
-<h1 align="center">Hobby</h1>
+# Hobby
 
-Where Learning Connects
+This is a website for Hobby, a fictional recreational directory. The main purpose of the website is to easily connect hobbyists with facilitators alike. What's more is you can narrow your search by finding the one closest to you.
+It is designed with ease of access in mind. This website exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence. Anyone can submit a recommendation, which will be added to the website upon revision.
+
 
 👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
 
-Add a Blurb about the site here, what does it do, why did you build it?
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
@@ -75,22 +76,24 @@ Add your user stories here. You want to include first time visitors and returnin
 
 #### First Time Visitor Goals
 
-* I want to find out what Create is, and if it has the activity that I'm looking for.
+* I want to find out what Hobby is, and if it has the activity that I'm looking for.
 * I want a website that's easy to navigate.
 * I want to find the information I'm looking for with ease.
 * I want to be able to find them on socials.
 
 #### Returning Visitor Goals
-
+* I want to be able to easily contact Hobby with any questions I might have.
 | Hobbyist | Facilitator |
 | --- | --- |
 | I want to find a particular activity. | I am curious if the services I offer are available. |
-| I want to make contact e| I want to be able to easily contact Create with questions I might have. |
+| I want to make contact   |
 * I want to sign up to the newsletter
 
 #### Frequent Visitor Goals
 
 * I want to be able to recommend a business/facilitator that would be a good fit for the website.
+
+
 
 ## Design
 
@@ -138,14 +141,18 @@ If there is a feature that appears on all pages of your site, include it here. E
 
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
+
 ### Future Implementations
-The current website acts as directory. There is potential to devleop the concept further to integrate further features and expand scope and use of the website.
-- Add a search engine with filters such as "Wheelchair Accessible", "Sensory Friendly" etc. to all of the listed business. This way people can find the best service to suit their essential needs.
-- Create a page login page for customers.
+Aspects I would add:
+- Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
+
+The current website acts as a free directory. There is potential to devleop the concept further by:
+- Adding a login page whereby the user can review the listed businesses.
+- Integrating e-commerce to the website where businesses can op-in to sell from the website if they do not have one themselves.
 - Create an app version of the website that makes its easy for all user types.
-- To inform all users that the concept will be developed further to faciitate the needs of both the facilitators and customers.
 
 What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+
 
 ### Accessibility
 
