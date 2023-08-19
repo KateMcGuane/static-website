@@ -63,7 +63,7 @@ Add your user stories here. You want to include first time visitors and returnin
 * To be able to view the site on a range of device sizes.
 * To make it clear what the site is about & how the concept works.
 * To make it clear that we are a third party service.
-* To inform all users that the concept will be developed further to faciitate the needs of both the facilitators and customers.
+
 
  
 * To make it easy for potential members to find out what the book club is and how to take part.
@@ -139,10 +139,11 @@ If there is a feature that appears on all pages of your site, include it here. E
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
 ### Future Implementations
+The current website acts as directory. There is potential to devleop the concept further to integrate further features and expand scope and use of the website.
 - Add a search engine with filters such as "Wheelchair Accessible", "Sensory Friendly" etc. to all of the listed business. This way people can find the best service to suit their essential needs.
-- Link
 - Create a page login page for customers.
 - Create an app version of the website that makes its easy for all user types.
+- To inform all users that the concept will be developed further to faciitate the needs of both the facilitators and customers.
 
 What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
 
@@ -202,11 +203,14 @@ Testing requirements aren't massive for your first project, however if you start
   
 Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
 
+
 ## Credits
 
 👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
 
-The Credits section is where you can credit all the people and sources you used throughout your project.
+### Markup
+The general format of my markup is based on the sample work by kera-cudmore.
+- readme-examples/milestone1-readme.md
 
 ### Code Used
 
