@@ -1,5 +1,7 @@
 <h1 align="center">Create</h1>
 
+Where Learning Connects
+
 👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
 
 Add a Blurb about the site here, what does it do, why did you build it?
@@ -56,6 +58,40 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 
 Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
 
+#### Client Goals
+
+* To be able to view the site on a range of device sizes.
+* To make it clear what the site is about & how the concept works.
+* To make it clear that we are a third party service.
+* To inform all users that the concept will be developed further to faciitate the needs of both the facilitators and customers.
+
+ 
+* To make it easy for potential members to find out what the book club is and how to take part.
+* To make it clear for members to see what we are currently reading and what is coming up next.
+* To allow people to be able to contact Create to ask further questions or with business recommendations etc.
+* To allow future customers to
+
+  
+
+#### First Time Visitor Goals
+
+* I want to find out what Create is, and if it has the activity that I'm looking for.
+* I want a website that's easy to navigate.
+* I want to find the information I'm looking for with ease.
+* I want to be able to find them on socials.
+
+#### Returning Visitor Goals
+
+| Hobbyist | Facilitator |
+| --- | --- |
+| I want to find a particular activity. | I am curious if the services I offer are available. |
+| I want to make contact e| I want to be able to easily contact Create with questions I might have. |
+* I want to sign up to the newsletter
+
+#### Frequent Visitor Goals
+
+* I want to be able to recommend a business/facilitator that would be a good fit for the website.
+
 ## Design
 
 👩🏻‍💻 View an example of a completed design section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
@@ -103,6 +139,10 @@ If there is a feature that appears on all pages of your site, include it here. E
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
 ### Future Implementations
+- Add a search engine with filters such as "Wheelchair Accessible", "Sensory Friendly" etc. to all of the listed business. This way people can find the best service to suit their essential needs.
+- Link
+- Create a page login page for customers.
+- Create an app version of the website that makes its easy for all user types.
 
 What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
 
@@ -170,10 +210,11 @@ The Credits section is where you can credit all the people and sources you used 
 
 ### Code Used
 
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+- I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application. 
+- 
 
 ### Content
-
+I wrote the majority of the content for the website myself. Credit is owed to the linked website owners, as I did take 
 Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
 
 ###  Media
