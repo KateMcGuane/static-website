@@ -39,6 +39,20 @@ h1 {
     color: #019fdc;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.enable {
+    border-bottom: 1px solid #019fdc;
+}
+
 /* Main Content */
 main {
     background-color: orchid;
