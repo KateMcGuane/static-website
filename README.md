@@ -16,10 +16,8 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 
 ---
 
-## CONTENTS
+## Table of Contents
 
-- [Hobby](#hobby)
-  - [CONTENTS](#contents)
   - [User Experience (UX)](#user-experience-ux)
     - [User Stories](#user-stories)
       - [Client Goals](#client-goals)
@@ -87,6 +85,7 @@ Add your user stories here. You want to include first time visitors and returnin
 
 #### Returning Visitor Goals
 * I want to be able to easily contact Hobby with any questions I might have.
+  
 | Hobbyist | Facilitator |
 | --- | --- |
 | I want to find a particular activity. | I am curious if the services I offer are available. |
@@ -97,7 +96,7 @@ Add your user stories here. You want to include first time visitors and returnin
 
 * I want to be able to recommend a business/facilitator that would be a good fit for the website.
 
-
+---
 
 ## Design
 
@@ -133,6 +132,8 @@ Add the images or links for your wireframes here.
 There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
 
 Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+
+---
 
 ## Features
 
@@ -215,6 +216,7 @@ Testing requirements aren't massive for your first project, however if you start
   
 Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
 
+---
 
 ## Credits
 
