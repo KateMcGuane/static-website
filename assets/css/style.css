@@ -1,5 +1,5 @@
 /* Google font imports */
-@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 /* Asterisk wildcard selector to override default styles added by the browswer */
 * {
@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 /* Header */
@@ -25,7 +25,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 1px 1px #FB5278;
+    box-shadow: 0 1px 1px #fb5278;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -37,10 +37,10 @@ header a {
 }
 
 h1 {
-    font-family: 'Fredericka The Great', sans-serif;
+    font-family: "Fredericka The Great", sans-serif;
     text-transform: lowercase;
     letter-spacing: 3px;
-    color: #FB5278;
+    color: #fb5278;
 }
 
 #menu {
@@ -49,12 +49,12 @@ h1 {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
 .enable {
-    border-bottom: 1px solid #FB5278;
+    border-bottom: 1px solid #fb5278;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -64,12 +64,12 @@ nav {
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 1px 1px #FB5278;
+    box-shadow: 0 1px 1px #fb5278;
     display: none;
     top: 100%;
 }
 
-/* Nav toggle*/
+/* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
 }
@@ -97,9 +97,10 @@ footer {
 
 /* Media query: tablets & larger (768px & up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
-        display:block;
+        display: block;
         position: relative;
         box-shadow: none;
         width: fit-content;
@@ -110,7 +111,7 @@ footer {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -126,7 +127,7 @@ footer {
 
     /* Main Content */
     main {
-        /* Push main content down to accomodate larger heading */
+        /* Push main content down to accommodate larger header */
         margin-top: 83px;
     }
 }
@@ -134,6 +135,6 @@ footer {
 /* Large devices (laptops & desktops, 992px & up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-bottom: 1px solid #FB5278;
+        border-bottom: 1px solid #fb5278;
     }
 }
