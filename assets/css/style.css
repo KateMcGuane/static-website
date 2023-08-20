@@ -36,7 +36,7 @@ h1 {
     font-family: 'Fredericka The Great', sans-serif;
     text-transform: lowercase;
     letter-spacing: 3px;
-    color: #019fdc;
+    color: #FB5278;
 }
 
 #menu {
@@ -50,7 +50,7 @@ h1 {
 }
 
 .enable {
-    border-bottom: 1px solid #019fdc;
+    border-bottom: 1px solid #FB5278;
 }
 
 /* Main Content */
