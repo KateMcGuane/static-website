@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-  background-color: #ffffff;
+  background-color: #ffffff";
   padding: 2px 1rem;
   position: fixed;
   z-index: 99;
@@ -84,7 +84,7 @@ nav {
 
 /* Main Content */
 main {
-  background-color: yellowgreen;
+  background-color: #fee16d;
   /* Make main element take up any surplus space to push footer down */
   flex: 1 0 auto;
   margin-top: 47px;
@@ -97,6 +97,7 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: #ffffff;
 }
 
 #socials i {
