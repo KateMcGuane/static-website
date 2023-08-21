@@ -84,10 +84,16 @@ nav {
 
 /* Main Content */
 main {
-  background-color: #fee16d;
   /* Make main element take up any surplus space to push footer down */
   flex: 1 0 auto;
   margin-top: 47px;
+}
+
+/* Hero-hobbies section */
+#hero-hobbies {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-hobbies-1.webp");
 }
 
 /* Footer */
