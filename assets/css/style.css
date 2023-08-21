@@ -26,8 +26,8 @@ h1 {
 }
 
 h2, h3 {
-    font-family: "Fredericka The Great", sans-serif;
-    letter-spacing: 3px;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 5px;
     color: #019fdc;
 }
 
@@ -105,16 +105,22 @@ main {
 
 #welcome-message {
     /* Using rgba to add some transparency */
-    background-color: rgba(254, 225, 109, .7);
-    font-size: 120%;
+    background-color: rgba(255, 244, 95, .8);
+    font-size: 200%;
     position: absolute;
-    bottom: 30px;
+    bottom: 50px;
     width: 70%;
     min-height: 200px;
     padding-top: 50px;
     padding-left: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: column;
 }
 
+#welcome-message > h2 {
+    font-size: 100%;
+}
 /* Footer */
 #socials {
     text-align: center;
@@ -164,6 +170,11 @@ main {
   main {
     /* Push main content down to accommodate larger header */
     margin-top: 83px;
+  }
+
+  /* Hero Image */
+  #welcome-message {
+    width: 100%;
   }
 }
 
