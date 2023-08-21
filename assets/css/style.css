@@ -99,6 +99,12 @@ main {
     list-style-type: none;
 }
 
+#socials i {
+    font-size: 150%;
+    padding: 5%;
+    color: #fb5278;
+}
+
 /* Media query: tablets & larger (768px & up) */
 @media screen and (min-width: 768px) {
   /* Header */
