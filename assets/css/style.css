@@ -18,6 +18,19 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+h1 {
+  font-family: "Fredericka The Great", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #fb5278;
+}
+
+h2, h3 {
+    font-family: "Fredericka The Great", sans-serif;
+    letter-spacing: 3px;
+    color: #019fdc;
+}
+
 /* Header */
 header {
   background-color: #ffffff";
@@ -34,13 +47,6 @@ header {
 header a {
   text-decoration: none;
   color: inherit;
-}
-
-h1 {
-  font-family: "Fredericka The Great", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  color: #fb5278;
 }
 
 #menu {
@@ -94,6 +100,19 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/hero-sprinkles-1.webp");
+    position: relative;
+}
+
+#welcome-message {
+    /* Using rgba to add some transparency */
+    background-color: rgba(254, 225, 109, .7);
+    font-size: 120%;
+    position: absolute;
+    bottom: 30px;
+    width: 70%;
+    min-height: 200px;
+    padding-top: 50px;
+    padding-left: 15px;
 }
 
 /* Footer */
