@@ -147,6 +147,29 @@ main {
   flex-direction: column;
 }
 
+.signup-container > h2 {
+  padding-bottom: 20px;
+}
+
+#input-field {
+  height: 1.5rem;
+}
+
+.button {
+  background-color: #2fc194;
+  border: none;
+  color: #ffffff;
+  padding: 1.25rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.25rem;
+  border-radius: 8px;
+  font-weight: bold;
+  box-shadow: 0.3rem 0.6rem #fb5278;
+  margin-top: 1.8rem;
+}
+
 /* Footer */
 #socials {
   text-align: center;
