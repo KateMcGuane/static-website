@@ -133,6 +133,25 @@ main {
   text-align: center;
 }
 
+/* Discover Page with Gallery */
+#photos {
+  /*position: absolute;*/
+  border-style: solid;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  overflow: clip;
+}
+
+div.photo-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: no-wrap;
+  gap: 20px;
+}
+
 /* Signup Page - specific to */
 .signup-container {
   background-color: #6be6a8;
