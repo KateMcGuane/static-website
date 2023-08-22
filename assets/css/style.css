@@ -123,7 +123,7 @@ main {
 }
 /* Footer */
 #socials {
-    text-align: center;
+    text-align: left;
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
