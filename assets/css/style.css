@@ -99,7 +99,7 @@ main {
   flex-direction: column;
 }
 
-/* Hero-hobbies section */
+/* Hero section */
 #hero-hobbies {
   /* height: 600px; */
   width: 100%;
@@ -132,6 +132,7 @@ main {
   text-align: center;
 }
 
+/* Signup Page */
 .signup-container {
   background-color: #6be6a8;
   font-size: 100%;
@@ -175,6 +176,39 @@ main {
   margin-top: 1.8rem;
 }
 
+.form-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 30px;
+}
+
+.newsletter-container {
+  background-color: #cba0cc;
+  font-size: 100%;
+  min-height: 200px;
+  padding: 25px;
+  padding-bottom: 45px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.signup-about {
+  background-color: #ffd3cd;
+  border-radius: 8px;
+  box-shadow: 0.3rem 0.6rem #fb5278;
+  margin-top: 1.8rem;
+  padding: 10px;
+}
+
+.form-section .signup-container,
+.form-section .newsletter-container {
+  max-width: 330px;
+}
+
 /* Footer */
 #socials {
   text-align: center;
@@ -189,32 +223,6 @@ main {
   font-size: 150%;
   padding: 5%;
   color: #fb5278;
-}
-
-.form-section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 20px;
-  padding: 0 30px;
-}
-
-.newsletter-container {
-  background-color: #cba0cc;
-  font-size: 100%;
-  min-height: 200px;
-  padding: 50px;
-  padding-left: 15px;
-  padding-bottom: 50px;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-}
-
-.form-section .signup-container,
-.form-section .newsletter-container {
-  max-width: 330px;
 }
 
 /* Media query: tablets & larger (768px & up) */
