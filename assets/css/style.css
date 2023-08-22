@@ -132,7 +132,7 @@ main {
   text-align: center;
 }
 
-/* Signup Page */
+/* Signup Page - specific to */
 .signup-container {
   background-color: #6be6a8;
   font-size: 100%;
@@ -150,6 +150,8 @@ main {
 
 .signup-container > h2 {
   padding-bottom: 20px;
+  color: #fb5278;
+  font-weight: bold;
 }
 
 .label-form {
