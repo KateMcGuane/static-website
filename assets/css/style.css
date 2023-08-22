@@ -121,6 +121,22 @@ main {
 #welcome-message > h2 {
     font-size: 100%;
 }
+
+.signup-container {
+    background-color: #6be6a8;
+    font-size: 100%;
+    position: absolute;
+    bottom: 50px;
+     width: 70%;
+    min-height: 200px;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: column;
+    }
+}
 /* Footer */
 #socials {
     text-align: left;
