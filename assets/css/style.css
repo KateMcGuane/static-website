@@ -139,7 +139,7 @@ main {
   /* bottom: 50px; */
   /* width: 70%; */
   min-height: 200px;
-  padding-top: 50px;
+  padding: 50px;
   padding-left: 15px;
   padding-bottom: 50px;
   display: flex;
@@ -151,6 +151,11 @@ main {
   padding-bottom: 20px;
 }
 
+.label-form {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 #input-field {
   height: 1.5rem;
 }
@@ -159,7 +164,7 @@ main {
   background-color: #2fc194;
   border: none;
   color: #ffffff;
-  padding: 1.25rem;
+  padding: 1rem;
   text-align: center;
   text-decoration: none;
   display: inline-block;
