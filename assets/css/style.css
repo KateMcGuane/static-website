@@ -200,6 +200,18 @@ main {
   padding: 0 30px;
 }
 
+.newsletter-container {
+  background-color: #cba0cc;
+  font-size: 100%;
+  min-height: 200px;
+  padding: 50px;
+  padding-left: 15px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .form-section .signup-container,
 .form-section .newsletter-container {
   max-width: 330px;
