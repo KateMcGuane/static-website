@@ -18,22 +18,24 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-h1 {
+h1,
+.logo-styled {
   font-family: "Fredericka The Great", sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
   color: #fb5278;
 }
 
-h2, h3 {
-    font-family: "Poppins", sans-serif;
-    letter-spacing: 5px;
-    color: #019fdc;
+h2,
+h3 {
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 5px;
+  color: #019fdc;
 }
 
 /* Header */
 header {
-  background-color: #ffffff";
+  background-color: #ffffff;
   padding: 2px 1rem;
   position: fixed;
   z-index: 99;
@@ -93,64 +95,86 @@ main {
   /* Make main element take up any surplus space to push footer down */
   flex: 1 0 auto;
   margin-top: 47px;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Hero-hobbies section */
 #hero-hobbies {
-    height: 600px;
-    width: 100%;
-    background: url("../images/hero-sprinkles-1.webp");
-    position: relative;
+  /* height: 600px; */
+  width: 100%;
+  background: url("../images/hero-sprinkles-1.webp");
+  /* position: relative; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1 0 auto;
 }
 
 #welcome-message {
-    /* Using rgba to add some transparency */
-    background-color: rgba(255, 244, 95, .8);
-    font-size: 200%;
-    position: absolute;
-    bottom: 50px;
-    width: 70%;
-    min-height: 200px;
-    padding-top: 50px;
-    padding-left: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: column;
+  /* Using rgba to add some transparency */
+  background-color: rgba(255, 244, 95, 0.8);
+  font-size: 200%;
+  /* position: absolute;
+  bottom: 50px; */
+  width: 100%;
+  min-height: 200px;
+  padding-top: 50px;
+  padding-left: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 #welcome-message > h2 {
-    font-size: 100%;
+  font-size: 100%;
+  text-align: center;
 }
 
 .signup-container {
-    background-color: #6be6a8;
-    font-size: 100%;
-    position: absolute;
-    bottom: 50px;
-     width: 70%;
-    min-height: 200px;
-    padding-top: 50px;
-    padding-left: 15px;
-    padding-bottom: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: column;
-    }
+  background-color: #6be6a8;
+  font-size: 100%;
+  /* position: absolute; */
+  /* bottom: 50px; */
+  /* width: 70%; */
+  min-height: 200px;
+  padding-top: 50px;
+  padding-left: 15px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
+
 /* Footer */
 #socials {
-    text-align: left;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    background-color: #ffffff;
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  background-color: #ffffff;
 }
 
 #socials i {
-    font-size: 150%;
-    padding: 5%;
-    color: #fb5278;
+  font-size: 150%;
+  padding: 5%;
+  color: #fb5278;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 30px;
+}
+
+.form-section .signup-container,
+.form-section .newsletter-container {
+  max-width: 330px;
 }
 
 /* Media query: tablets & larger (768px & up) */
@@ -192,11 +216,23 @@ main {
   #welcome-message {
     width: 100%;
   }
+
+  .form-section {
+    flex-direction: row;
+  }
 }
 
 /* Large devices (laptops & desktops, 992px & up) */
 @media screen and (min-width: 992px) {
   #menu a:hover {
     border-bottom: 1px solid #fb5278;
+  }
+
+  #welcome-message {
+    flex-direction: row;
+  }
+
+  .logo-styled {
+    padding: 0 10px;
   }
 }
