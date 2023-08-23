@@ -134,8 +134,11 @@ main {
 }
 
 /* Discover Page with Gallery */
+
 #photos {
   /*position: absolute;*/
+  width: 100%;
+  line-height: 1em;
   border-style: solid;
   border-radius: 20px;
   display: flex;
@@ -143,6 +146,14 @@ main {
   align-items: center;
   height: auto;
   overflow: clip;
+}
+
+.our-hobbies {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-evenly;
 }
 
 div.photo-container {
@@ -247,7 +258,7 @@ div.photo-container {
   color: #fb5278;
 }
 
-/* Media query: tablets & larger (768px & up) */
+/* MEDIA QUERY: tablets & larger (768px & up) */
 @media screen and (min-width: 768px) {
   /* Header */
   nav {
@@ -292,7 +303,14 @@ div.photo-container {
   }
 }
 
-/* Large devices (laptops & desktops, 992px & up) */
+/* MEDIA QUERY: large or landscape phones (576px & up) */
+@media screen and (min-width: 576px) {
+  #photos {
+    column-count: 2;
+  }
+}
+
+/* MEDIA QUERY: Large devices (laptops & desktops, 992px & up) */
 @media screen and (min-width: 992px) {
   #menu a:hover {
     border-bottom: 1px solid #fb5278;
