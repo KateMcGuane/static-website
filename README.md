@@ -81,10 +81,17 @@ The website is designed with separate pages. This is to ensure ease of use, and 
 
 ### Colour Scheme
 
+The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
+
 ![Hobby Website Colour Palette](docs/sprinkles-23.png)
-I wanted to illustrate variety, childhood and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
+
+This palette reflects the hero image that is features across each webpage. Many of the colours were extracted from this image and are accented throughout the website.
+
 ![Hobby Website Colour Palette](docs/sprinkles-20.png)
-The colour palette was created using the [Coolors](https://coolors.co/) website.
+
+This palette has stronger tones to it. It is used primarily for elements such as headings or areas of highlighted interest. This is to illustrate contrast and essential elements of importance.
+
+Both colour palettes were created using the [Coolors](https://coolors.co/) website.
 
 ### Typography
 
