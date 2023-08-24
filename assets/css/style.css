@@ -224,6 +224,11 @@ main {
   padding: 4px 8px;
   border-radius: 5px;
 }
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .button {
   background-color: #2fc194;
@@ -246,7 +251,7 @@ main {
   align-items: center;
   justify-content: center;
   gap: 20px;
-  padding: 0 30px;
+  padding: 30px;
 }
 
 .newsletter-container {
@@ -271,6 +276,8 @@ main {
 .form-section .signup-container,
 .form-section .newsletter-container {
   max-width: 330px;
+  border-radius: 330px;
+  box-shadow: 0.3rem 0.6rem #fb5278;
 }
 
 /* Footer */
