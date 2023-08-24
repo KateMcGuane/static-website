@@ -16,7 +16,6 @@ It is designed with ease of access in mind. This website exists to showcase hobb
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
     - [Imagery](#imagery)
-    - [Wireframes](#wireframes)
   - [Features](#features)
     - [Existing Features](#existing-features)
       - [Summary of Pages](#summary-of-pages)
@@ -26,9 +25,7 @@ It is designed with ease of access in mind. This website exists to showcase hobb
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
-  - [Deployment \& Local Development](#deployment--local-development)
-    - [Deployment](#deployment)
-    - [Local Development](#local-development)
+  - [Deployment](#deployment)
   - [Testing](#testing)
   - [Credits](#credits)
     - [Markup](#markup)
@@ -96,14 +93,6 @@ Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
 All images were source from [Raw Pixel](https://www.rawpixel.com/).
 
-### Wireframes
-
-Add the images or links for your wireframes here.
-
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
-
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
-
 ---
 
 ## Features
@@ -161,9 +150,7 @@ HTML & CSS were used to create this website.
 - Coolors
 - Raw Pixel
 
-## Deployment & Local Development
-
-### Deployment
+## Deployment
 
 The site was deployed early using Github Pages. The is how the live site was deployed:
 
@@ -174,10 +161,6 @@ The site was deployed early using Github Pages. The is how the live site was dep
 5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
 6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
-### Local Development
-
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
-
 ## Testing
 
 The website was tested manually throughout the project development using DevTools to check for responsiveness.
@@ -185,8 +168,6 @@ The website was tested manually throughout the project development using DevTool
 ---
 
 ## Credits
-
-👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
 
 ### Markup
 
@@ -197,11 +178,10 @@ The general format of my markup is based on the sample work by kera-cudmore.
 ### Code Used
 
 - I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application.
--
 
 ### Content
 
-I wrote the majority of the content for the website myself.
+I wrote the content for the website myself.
 
 ###  Media
 
