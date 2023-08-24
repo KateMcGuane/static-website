@@ -101,10 +101,8 @@ main {
 
 /* Hero section */
 #hero-hobbies {
-  /* height: 600px; */
   width: 100%;
   background: url("../images/hero-sprinkles-1.webp");
-  /* position: relative; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -114,8 +112,7 @@ main {
 #welcome-message {
   background-color: #ffd3cd;
   font-size: 200%;
-  /* position: absolute;
-  bottom: 50px; */
+  bottom: 50px;
   width: 100%;
   min-height: 200px;
   padding-top: 50px;
@@ -152,17 +149,9 @@ main {
 }
 
 .photos {
-  /*position: absolute;*/
-  width: 100%;
-  line-height: 1em;
   border-style: solid;
   border-color: #fb5278;
   border-radius: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: auto;
-  overflow: clip;
 }
 
 .our-hobbies {
@@ -172,21 +161,38 @@ main {
   flex-wrap: wrap;
   width: 100%;
   justify-content: space-around;
+  align-items: center;
+  padding: 5px;
 }
 
-.cubicle {
+.our-hobbies .cubicle {
+  height: 400px;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.our-hobbies .cubicle img {
+  width: 100%;
+  height: 90%;
+  object-fit: cover;
+}
+
+.cubicle > h3 {
   color: #3a3a3a;
   font-weight: 600;
-  margin: 10px;
+  height: 10%;
+  background-color: #019fdc;
+  border-radius: 20px 20px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Signup Page - specific to */
 .signup-container {
   background-color: #6be6a8;
   font-size: 100%;
-  /* position: absolute; */
-  /* bottom: 50px; */
-  /* width: 70%; */
   min-height: 200px;
   padding: 50px;
   padding-left: 15px;
