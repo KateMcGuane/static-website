@@ -81,22 +81,21 @@ The website is designed with separate pages. This is to ensure ease of use, and 
 
 ### Colour Scheme
 
-![Hobby Website Colour Palette](docs/sprinkles-23.png.png)
+![Hobby Website Colour Palette](docs/sprinkles-23.png)
 I wanted to illustrate variety, childhood and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
 ![Hobby Website Colour Palette](docs/sprinkles-20.png)
 The colour palette was created using the [Coolors](https://coolors.co/) website.
 
 ### Typography
 
-If you've imported fonts to use in your project, add some information about them here. You can include information like:
+Both fonts were sourced from Google Fonts. [Google Fonts](https://fonts.google.com/)
 
-Why did you choose the font you have?
-Is this an accessibly friendly font?
-What weights have you included?
+- Fredericka The Great
 
-I also like to include an image of the fonts chosen as a reference.
+  - This has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, and mirrors the chosen style of favicon.
 
-[Google Fonts](https://fonts.google.com/) is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
+- Poppins
+  - This is a legible font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read.
 
 ### Imagery
 
