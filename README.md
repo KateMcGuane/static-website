@@ -4,16 +4,6 @@ This is a website for Hobby, a fictional recreational directory. The main purpos
 
 It is designed with ease of access in mind. This website exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence.
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
-
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
-
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
-
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
-
----
-
 ## Table of Contents
 
 - [Hobby](#hobby)
@@ -28,7 +18,9 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
   - [Features](#features)
-    - [General features on each page](#general-features-on-each-page)
+    - [Existing Features](#existing-features)
+      - [Summary of Pages](#summary-of-pages)
+      - [Reoccuring Page Features](#reoccuring-page-features)
     - [Future Implementations](#future-implementations)
     - [Accessibility](#accessibility)
   - [Technologies Used](#technologies-used)
@@ -37,8 +29,6 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
   - [Deployment \& Local Development](#deployment--local-development)
     - [Deployment](#deployment)
     - [Local Development](#local-development)
-      - [How to Fork](#how-to-fork)
-      - [How to Clone](#how-to-clone)
   - [Testing](#testing)
   - [Credits](#credits)
     - [Markup](#markup)
@@ -118,13 +108,20 @@ Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://ww
 
 ## Features
 
-This section can be used to explain what pages your site is made up of.
+### Existing Features
 
-### General features on each page
+#### Summary of Pages
 
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
+- The About page is a general landing page that describes the website.
+- The Discovery page features a gallery of the range of hobbies available in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues.
+- The Signup page features a one way means of contact. The sole purpose is to collect potential customer and facilitator contact information.
+- The response page is only activated when the user clicks the 'Subscribe' button for the signup page.
 
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
+#### Reoccuring Page Features
+
+- The navigation is visible on all pages. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices.
+- Each page features a hero image of sprinkles with other information being layered on top.
+- The footer is a focal point that stands out clearly with a white background. This is carried throughout each page.
 
 ### Future Implementations
 
@@ -143,15 +140,7 @@ The current website acts as a free directory. There is potential to devleop the 
 
 ### Accessibility
 
-Be an amazing developer and get used to thinking about accessibility in all of your projects!
-
-This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
-
-Have you used icons and added aria-labels to enable screen readers to understand these?
-Have you ensured your site meets the minimum contrast requirements?
-Have you chosen fonts that are dyslexia/accessible friendly?
-
-Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
+The entire website was designed with a responsive-first ethos in mind.
 
 ---
 
@@ -174,8 +163,6 @@ HTML & CSS were used to create this website.
 
 ## Deployment & Local Development
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
 ### Deployment
 
 The site was deployed early using Github Pages. The is how the live site was deployed:
@@ -191,17 +178,9 @@ The site was deployed early using Github Pages. The is how the live site was dep
 
 The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
 
-#### How to Fork
-
-Place instructions on how to fork your project here.
-
-#### How to Clone
-
-Place instructions on how to clone your project here.
-
 ## Testing
 
-| Issue | Troubleshooting | Further Investigation | Resolve |
+The website was tested manually throughout the project development using DevTools to check for responsiveness.
 
 ---
 
@@ -234,8 +213,3 @@ I wrote the majority of the content for the website myself.
 - My dear friend, Sarah, you are a wonderful teacher, and gave valauble insight.
 - My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
 - To my tutor Laura, who provided a sense of calm when needed most. Your forewarnings were very useful, and acurate.
-
---
-
-What's more is you can narrow your search by finding the one closest to you.
-Anyone can submit a recommendation, which will be added to the website upon revision.
