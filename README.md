@@ -47,7 +47,7 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
     - [ Media](#media)
     - [ Acknowledgments](#acknowledgments)
   - [GOALS](#goals)
-      - [In Short](#in-short)
+    - [In Short](#in-short)
 
 ---
 
@@ -81,9 +81,9 @@ The website is designed with separate pages. This is to ensure ease of use, and 
 
 ### Colour Scheme
 
-![Hobby Website Colour Palette](sprinkles-colour-palette.png)
+![Hobby Website Colour Palette](docs/sprinkles-23.png.png)
 I wanted to illustrate variety, childhood and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
-![Hobby Website Colour Palette](assets/docs/sprinkles-20.png)
+![Hobby Website Colour Palette](docs/sprinkles-20.png)
 The colour palette was created using the [Coolors](https://coolors.co/) website.
 
 ### Typography
