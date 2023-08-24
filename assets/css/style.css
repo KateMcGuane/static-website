@@ -276,8 +276,27 @@ main {
 .form-section .signup-container,
 .form-section .newsletter-container {
   max-width: 330px;
-  border-radius: 330px;
+  border-radius: 10px;
   box-shadow: 0.3rem 0.6rem #fb5278;
+}
+
+/* Response Page */
+.response-section div {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+  align-items: center;
+  justify-content: center;
+  background-color: #019fdc;
+  height: 350px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0.3rem 0.6rem #fb5278;
+}
+
+.response-section p {
+  font-size: 140%;
+  text-align: center;
 }
 
 /* Footer */
@@ -338,6 +357,23 @@ main {
 
   .form-section {
     flex-direction: row;
+  }
+
+  .label-form {
+    flex-direction: row;
+  }
+
+  .label-form input {
+    width: 80%;
+  }
+
+  .label-form label {
+    width: 20%;
+  }
+
+  .form-section .signup-container,
+  .form-section .newsletter-container {
+    height: 450px;
   }
 }
 
