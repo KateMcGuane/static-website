@@ -1,12 +1,10 @@
 # Hobby
 
-This is a website for Hobby, a fictional recreational directory. The main purpose of the website is to easily connect hobbyists with facilitators alike. What's more is you can narrow your search by finding the one closest to you.
+This is a website for Hobby, a fictional recreational directory. The main purpose of the website is to easily connect hobbyists with facilitators alike.
 
-It is designed with ease of access in mind. This website exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence. Anyone can submit a recommendation, which will be added to the website upon revision.
-
+It is designed with ease of access in mind. This website exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence.
 
 👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
-
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
@@ -18,12 +16,12 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 
 ## Table of Contents
 
+- [Hobby](#hobby)
+  - [Table of Contents](#table-of-contents)
   - [User Experience (UX)](#user-experience-ux)
     - [User Stories](#user-stories)
       - [Client Goals](#client-goals)
-      - [First Time Visitor Goals](#first-time-visitor-goals)
-      - [Returning Visitor Goals](#returning-visitor-goals)
-      - [Frequent Visitor Goals](#frequent-visitor-goals)
+      - [Visitor Goals](#visitor-goals)
   - [Design](#design)
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
@@ -63,51 +61,30 @@ Add your user stories here. You want to include first time visitors and returnin
 
 #### Client Goals
 
-* To be able to view the site on a range of device sizes.
-* To make it clear what the site is about & how the concept works.
-* To make it clear that we are a third party service.
+- To be able to view the site on a range of device sizes.
+- To serve as a community directory for hobbies, and link hobbyists with facilitators.
+- To link in with users in the form af a newsletter.
+- To direct visitors to our socials.
 
+#### Visitor Goals
 
- 
-* To make it easy for potential members to find out what the book club is and how to take part.
-* To make it clear for members to see what we are currently reading and what is coming up next.
-* To allow people to be able to contact Create to ask further questions or with business recommendations etc.
-* To allow future customers to
-
-  
-
-#### First Time Visitor Goals
-
-* I want to find out what Hobby is, and if it has the activity that I'm looking for.
-* I want a website that's easy to navigate.
-* I want to find the information I'm looking for with ease.
-* I want to be able to find them on socials.
-
-#### Returning Visitor Goals
-* I want to be able to easily contact Hobby with any questions I might have.
-  
-| Hobbyist | Facilitator |
-| --- | --- |
-| I want to find a particular activity. | I am curious if the services I offer are available. |
-| I want to make contact   |
-* I want to sign up to the newsletter
-
-#### Frequent Visitor Goals
-
-* I want to be able to recommend a business/facilitator that would be a good fit for the website.
+- I want to find out what Hobby is, and if it has the activity that I'm looking for.
+- I want a website that's easy to navigate.
+- I want to find the information I'm looking for with ease.
+- I want to be able to find them on socials.
 
 ---
 
 ## Design
 
-👩🏻‍💻 View an example of a completed design section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
+The website is designed with separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. The website is a directory and will be used as a hub for quick access to facilities and respective socials.
 
 ### Colour Scheme
 
 ![Hobby Website Colour Palette](sprinkles-colour-palette.png)
-I wanted to illustrate variety, childhood and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice. I especially wanted the colour scheme to include yellow, not too dissimilar to the yellow pages. An institution that existed as the main directory for businesses before the internet.
+I wanted to illustrate variety, childhood and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
+![Hobby Website Colour Palette](assets/docs/sprinkles-20.png)
 The colour palette was created using the [Coolors](https://coolors.co/) website.
-
 
 ### Typography
 
@@ -122,8 +99,6 @@ I also like to include an image of the fonts chosen as a reference.
 [Google Fonts](https://fonts.google.com/) is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
 
 ### Imagery
-
-Use this section to explain what sort of imagery you plan to use through your site.
 
 ### Wireframes
 
@@ -147,18 +122,19 @@ If there is a feature that appears on all pages of your site, include it here. E
 
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
-
 ### Future Implementations
+
 Aspects I would add:
+
 - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
 
 The current website acts as a free directory. There is potential to devleop the concept further by:
+
 - Adding a login page whereby the user can review the listed businesses.
 - Integrating e-commerce to the website where businesses can op-in to sell from the website if they do not have one themselves.
 - Create an app version of the website that makes its easy for all user types.
 
 What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
-
 
 ### Accessibility
 
@@ -213,7 +189,7 @@ Place instructions on how to clone your project here.
 Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
 
 Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
-  
+
 Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
 
 ---
@@ -223,28 +199,34 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
 
 ### Markup
+
 The general format of my markup is based on the sample work by kera-cudmore.
+
 - readme-examples/milestone1-readme.md
 
 ### Code Used
-- I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application. 
-- 
+
+- I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application.
+-
 
 ### Content
+
 I wrote the majority of the content for the website myself. Credit is owed to the linked website owners.
 
 ###  Media
+
 - Favicon: I created the favicon with Canva. Their selection of artworks had more variety & compatibility for application as a favicon.
 
 If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
-  
+
 ###  Acknowledgments
 
 If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
 
-- - - 
+---
 
 ## GOALS
+
 1. Design an interactive Front-End web application using HTML and CSS on the principles of user experience desing, accessibility and responsivity
 2. Test a Front-End web application through the development, implementation and deployment stages
 3. Deploy a Front-End web application to a Cloud platform
@@ -252,9 +234,13 @@ If someone helped you out during your project, you can acknowledge them here! Fo
 5. Demonstrate and document the development process through a version control system such as GitHub
 
 #### In Short
+
 - [ ] Static website with 3 pages or more
 - [ ] Good UX Design practice
 - [ ] Fully Responsive
 - [ ] Well Tested app & Validated Code
 - [ ] Deployed to Cloud Platform
 - [ ] Well documented
+
+What's more is you can narrow your search by finding the one closest to you.
+Anyone can submit a recommendation, which will be added to the website upon revision.
