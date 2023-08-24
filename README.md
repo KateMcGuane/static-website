@@ -46,8 +46,6 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
     - [Content](#content)
     - [ Media](#media)
     - [ Acknowledgments](#acknowledgments)
-  - [GOALS](#goals)
-    - [In Short](#in-short)
 
 ---
 
@@ -130,17 +128,18 @@ I then like to add a screenshot of each page of the site here, i use [amirespons
 
 ### Future Implementations
 
-Aspects I would add:
+Aspects that could elevate the current website:
 
-- Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
+- Link in real-life businesses.
+- Add a map feature on the discover page to said businesses.
+- Add contact informtion.
 
 The current website acts as a free directory. There is potential to devleop the concept further by:
 
 - Adding a login page whereby the user can review the listed businesses.
+  - - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
 - Integrating e-commerce to the website where businesses can op-in to sell from the website if they do not have one themselves.
 - Create an app version of the website that makes its easy for all user types.
-
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
 
 ### Accessibility
 
@@ -202,11 +201,7 @@ Place instructions on how to clone your project here.
 
 ## Testing
 
-Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
-
-Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
-
-Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
+| Issue | Troubleshooting | Further Investigation | Resolve |
 
 ---
 
@@ -227,36 +222,20 @@ The general format of my markup is based on the sample work by kera-cudmore.
 
 ### Content
 
-I wrote the majority of the content for the website myself. Credit is owed to the linked website owners.
+I wrote the majority of the content for the website myself.
 
 ###  Media
 
-- Favicon: I created the favicon with Canva. Their selection of artworks had more variety & compatibility for application as a favicon.
-
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+- Favicon: I created the favicon with [Canva](https://www.canva.com/). Their selection of artworks had more variety & compatibility for application as a favicon.
 
 ###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
+- A huge thank you to my mentor, Alex, who helped me resolve any major issues.
+- My dear friend, Sarah, you are a wonderful teacher, and gave valauble insight.
+- My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
+- To my tutor Laura, who provided a sense of calm when needed most. Your forewarnings were very useful, and acurate.
 
----
-
-## GOALS
-
-1. Design an interactive Front-End web application using HTML and CSS on the principles of user experience desing, accessibility and responsivity
-2. Test a Front-End web application through the development, implementation and deployment stages
-3. Deploy a Front-End web application to a Cloud platform
-4. Maximised future maintainability through documentation, code structure and organisation
-5. Demonstrate and document the development process through a version control system such as GitHub
-
-#### In Short
-
-- [ ] Static website with 3 pages or more
-- [ ] Good UX Design practice
-- [ ] Fully Responsive
-- [ ] Well Tested app & Validated Code
-- [ ] Deployed to Cloud Platform
-- [ ] Well documented
+--
 
 What's more is you can narrow your search by finding the one closest to you.
 Anyone can submit a recommendation, which will be added to the website upon revision.
