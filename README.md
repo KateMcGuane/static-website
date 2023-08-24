@@ -95,7 +95,7 @@ Both colour palettes were created using the [Coolors](https://coolors.co/) websi
 
 ### Typography
 
-Both fonts were sourced from Google Fonts. [Google Fonts](https://fonts.google.com/)
+Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
 - Fredericka The Great
 
@@ -105,6 +105,8 @@ Both fonts were sourced from Google Fonts. [Google Fonts](https://fonts.google.c
   - This is a legible font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read.
 
 ### Imagery
+
+All images were source from [Raw Pixel](https://www.rawpixel.com/).
 
 ### Wireframes
 
