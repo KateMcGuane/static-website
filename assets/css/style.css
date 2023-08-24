@@ -197,6 +197,7 @@ main {
   padding: 50px;
   padding-left: 15px;
   padding-bottom: 50px;
+  padding-right: 15px;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -211,10 +212,17 @@ main {
 .label-form {
   padding-top: 5px;
   padding-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 #input-field {
   height: 1.5rem;
+  width: 100%;
+  padding: 4px 8px;
+  border-radius: 5px;
 }
 
 .button {
