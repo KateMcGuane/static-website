@@ -156,6 +156,7 @@ main {
   width: 100%;
   line-height: 1em;
   border-style: solid;
+  border-color: #fb5278;
   border-radius: 20px;
   display: flex;
   justify-content: center;
@@ -173,9 +174,10 @@ main {
   justify-content: space-around;
 }
 
-.cublicle > h3 {
+.cublcle {
   color: #3a3a3a;
   font-weight: 600;
+  padding: 2%;
 }
 
 /* Signup Page - specific to */
