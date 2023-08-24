@@ -112,7 +112,6 @@ main {
 }
 
 #welcome-message {
-  /* Using rgba to add some transparency */
   background-color: #ffd3cd;
   font-size: 200%;
   /* position: absolute;
@@ -135,21 +134,24 @@ main {
 
 /* Discover Page with Gallery */
 .discover-choose {
-    background-color: #a7d3bc;
-    font-size: 200%;
-    bottom: 50px; */
-    width: 100%;
-    min-height: 200px;
-    padding-top: 50px;
-    padding-left: 15px;
-    padding-bottom: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  background-color: #a7d3bc;
+  font-size: 200%;
+  bottom: 50px;
+  width: 100%;
+  min-height: 200px;
+  padding-top: 50px;
+  padding-left: 15px;
+  padding-bottom: 30px;
+  padding-right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  margin: 50px 50px;
 }
 
-#photos {
+.photos {
   /*position: absolute;*/
   width: 100%;
   line-height: 1em;
@@ -163,18 +165,17 @@ main {
 }
 
 .our-hobbies {
+  background: url("../images/hero-sprinkles-1.webp");
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
-div.photo-container {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: no-wrap;
-  gap: 20px;
+.cublicle > h3 {
+  color: #3a3a3a;
+  font-weight: 600;
 }
 
 /* Signup Page - specific to */
@@ -314,13 +315,6 @@ div.photo-container {
 
   .form-section {
     flex-direction: row;
-  }
-}
-
-/* MEDIA QUERY: large or landscape phones (576px & up) */
-@media screen and (min-width: 576px) {
-  #photos {
-    column-count: 2;
   }
 }
 
