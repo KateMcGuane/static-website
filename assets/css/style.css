@@ -218,7 +218,9 @@ main {
   align-items: center;
 }
 
-#input-field {
+#input-field-first-name, 
+#input-field-last-name, 
+#input-field-email {
   height: 1.5rem;
   width: 100%;
   padding: 4px 8px;
