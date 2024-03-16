@@ -4,6 +4,8 @@ This is a website for Hobby, a fictional recreational directory. The main purpos
 
 It is designed with ease of access in mind. This website exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence.
 
+[View Hobby here](https://katemcguane.github.io/hobby/index.html)
+
 ## Table of Contents
 
 - [User Experience (UX)](#user-experience-ux)

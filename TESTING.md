@@ -5,6 +5,7 @@ This file was created on the second edition of this project. All issues in the a
 add image of finished site using [amiresponsive](https://ui.dev/amiresponsive)
 add link to live site deployed on github pages
 
+Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) for reference.
 
 The website was tested manually throughout the project development using DevTools to check for responsiveness.
 
