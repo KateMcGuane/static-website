@@ -19,8 +19,9 @@ add link to live site deployed on github pages
   * [Full Testing](#full-testing)
 
 * [Bugs](#bugs)
-  * [Known Bugs](#known-bugs)
   * [Solved Bugs](#solved-bugs)
+  * [Known Bugs](#known-bugs)
+ 
 
 ---
 

@@ -389,7 +389,8 @@ main {
     flex-direction: row;
   }
 
-  .logo-styled {
+  .logo-styled, 
+  .discover-styled {
     padding: 0 10px;
   }
 }
