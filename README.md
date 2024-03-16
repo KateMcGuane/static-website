@@ -168,7 +168,8 @@ The website was tested manually throughout the project development using DevTool
 
 ### Markup
 
-The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
+- The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
+- I used this [milestone-testing.md](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md) as a guide to writing my own [TESTING.md] file, along with the corresponding [example](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md#found-in-translation----testing-documentation).
 
 ### Code Used
 
