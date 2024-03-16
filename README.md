@@ -38,17 +38,13 @@ It is designed with ease of access in mind. This website exists to showcase hobb
 
 ## User Experience (UX)
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/Bully-Book-Club#user-experience-ux)
-
 ### User Stories
-
-Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
 
 #### Client Goals
 
 - To be able to view the site on a range of device sizes.
 - To serve as a community directory for hobbies, and link hobbyists with facilitators.
-- To link in with users in the form af a newsletter.
+- To link in with users in the form of a newsletter.
 - To direct visitors to our socials.
 
 #### Visitor Goals
@@ -56,7 +52,7 @@ Add your user stories here. You want to include first time visitors and returnin
 - I want to find out what Hobby is, and if it has the activity that I'm looking for.
 - I want a website that's easy to navigate.
 - I want to find the information I'm looking for with ease.
-- I want to be able to find them on socials.
+- I want to be able to find and follow Hobby on socials.
 
 ---
 
@@ -104,7 +100,7 @@ All images were source from [Raw Pixel](https://www.rawpixel.com/).
 - The About page is a general landing page that describes the website.
 - The Discovery page features a gallery of the range of hobbies available in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues.
 - The Signup page features a one way means of contact. The sole purpose is to collect potential customer and facilitator contact information.
-- The response page is only activated when the user clicks the 'Subscribe' button for the signup page.
+- The Response page is only activated when the user clicks the 'Subscribe' button for the signup page.
 
 #### Reoccuring Page Features
 
@@ -124,7 +120,7 @@ The current website acts as a free directory. There is potential to devleop the 
 
 - Adding a login page whereby the user can review the listed businesses.
   - - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
-- Integrating e-commerce to the website where businesses can op-in to sell from the website if they do not have one themselves.
+- Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves.
 - Create an app version of the website that makes its easy for all user types.
 
 ### Accessibility
@@ -141,14 +137,15 @@ HTML & CSS were used to create this website.
 
 ### Frameworks, Libraries & Programs Used
 
-- GitHub
-- Codeanywhere
-- Google Fonts
-- Font Awesome
-- Canva
-- Favicon.io
-- Coolors
-- Raw Pixel
+
+- [Codeanywhere](https://codeanywhere.com/) - Initial IDE used; transferred to VS Code midway.
+- [GitHub](https://github.com/)
+- [Google Fonts](https://codeanywhere.com/signin)
+- [Font Awesome](https://fontawesome.com/)
+- [Canva](https://www.canva.com/)
+- [Favicon.io](https://favicon.io/favicon-converter/)
+- [Coolors](https://coolors.co/)
+- [Raw Pixel](https://www.rawpixel.com/)
 
 ## Deployment
 
@@ -171,9 +168,7 @@ The website was tested manually throughout the project development using DevTool
 
 ### Markup
 
-The general format of my markup is based on the sample work by kera-cudmore.
-
-- readme-examples/milestone1-readme.md
+The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
 
 ### Code Used
 
