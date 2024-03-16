@@ -10,21 +10,27 @@ It is designed with ease of access in mind. This website exists to showcase hobb
     - [User Stories](#user-stories)
       - [Client Goals](#client-goals)
       - [Visitor Goals](#visitor-goals)
+
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Typography](#typography)
   - [Imagery](#imagery)
+
 - [Features](#features)
   - [Existing Features](#existing-features)
     - [Summary of Pages](#summary-of-pages)
     - [Reoccuring Page Features](#reoccuring-page-features)
   - [Future Implementations](#future-implementations)
   - [Accessibility](#accessibility)
+
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
   - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+
 - [Deployment](#deployment)
+
 - [Testing](#testing)
+
 - [Credits](#credits)
   - [Markup](#markup)
   - [Code Used](#code-used)
@@ -158,7 +164,8 @@ The site was deployed early using Github Pages. The is how the live site was dep
 
 ## Testing
 
-The website was tested manually throughout the project development using DevTools to check for responsiveness.
+Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
+
 
 ---
 
