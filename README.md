@@ -6,9 +6,7 @@ It is designed with ease of access in mind. This website exists to showcase hobb
 
 ## Table of Contents
 
-
-- [Table of Contents](#table-of-contents)
-  - [User Experience (UX)](#user-experience-ux)
+- [User Experience (UX)](#user-experience-ux)
     - [User Stories](#user-stories)
       - [Client Goals](#client-goals)
       - [Visitor Goals](#visitor-goals)
