@@ -6,33 +6,33 @@ It is designed with ease of access in mind. This website exists to showcase hobb
 
 ## Table of Contents
 
-- [Hobby](#hobby)
-  - [Table of Contents](#table-of-contents)
+
+- [Table of Contents](#table-of-contents)
   - [User Experience (UX)](#user-experience-ux)
     - [User Stories](#user-stories)
       - [Client Goals](#client-goals)
       - [Visitor Goals](#visitor-goals)
-  - [Design](#design)
-    - [Colour Scheme](#colour-scheme)
-    - [Typography](#typography)
-    - [Imagery](#imagery)
-  - [Features](#features)
-    - [Existing Features](#existing-features)
-      - [Summary of Pages](#summary-of-pages)
-      - [Reoccuring Page Features](#reoccuring-page-features)
-    - [Future Implementations](#future-implementations)
-    - [Accessibility](#accessibility)
-  - [Technologies Used](#technologies-used)
-    - [Languages Used](#languages-used)
-    - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
-  - [Deployment](#deployment)
-  - [Testing](#testing)
-  - [Credits](#credits)
-    - [Markup](#markup)
-    - [Code Used](#code-used)
-    - [Content](#content)
-    - [ Media](#media)
-    - [ Acknowledgments](#acknowledgments)
+- [Design](#design)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+- [Features](#features)
+  - [Existing Features](#existing-features)
+    - [Summary of Pages](#summary-of-pages)
+    - [Reoccuring Page Features](#reoccuring-page-features)
+  - [Future Implementations](#future-implementations)
+  - [Accessibility](#accessibility)
+- [Technologies Used](#technologies-used)
+  - [Languages Used](#languages-used)
+  - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+- [Deployment](#deployment)
+- [Testing](#testing)
+- [Credits](#credits)
+  - [Markup](#markup)
+  - [Code Used](#code-used)
+  - [Content](#content)
+  - [ Media](#media)
+  - [ Acknowledgments](#acknowledgments)
 
 ---
 
@@ -64,7 +64,7 @@ The website is designed with separate pages. This is to ensure ease of use, and 
 
 The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
 
-This palette reflects the hero image that is features across each webpage. Many of the colours were extracted from this image and are accented throughout the website.
+This palette reflects the hero image that features across each webpage. Many of the colours were extracted from this image and are accented throughout the website.
 
 ![Hobby Website Colour Palette](docs/sprinkles-23.png)
 
