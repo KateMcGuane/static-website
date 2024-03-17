@@ -17,6 +17,7 @@ It is designed with ease of access in mind. This website exists to showcase hobb
   - [Colour Scheme](#colour-scheme)
   - [Typography](#typography)
   - [Imagery](#imagery)
+  - [Wireframes](#wireframes)
 
 - [Features](#features)
   - [Existing Features](#existing-features)
@@ -94,6 +95,22 @@ Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 ### Imagery
 
 All images were source from [Raw Pixel](https://www.rawpixel.com/).
+
+### Wireframes
+
+Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
+
+#### __Home Page__
+
+![Hobby Home Page](docs/wireframes/hobbyindex.png)
+
+#### __Gallery Page__
+
+![Hobby Gallery Page](docs/wireframes/hobbygallery.png)
+
+#### __Sign Up Page__
+
+![Hobby Sign Up Page](docs/wireframes/hobbysignup.png)
 
 ---
 
