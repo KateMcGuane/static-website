@@ -65,19 +65,22 @@ It is designed with ease of access in mind. This website exists to showcase hobb
 
 ## Design
 
-The website is designed with separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. The website is a directory and will be used as a hub for quick access to facilities and respective socials.
+The website is designed with three separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. 
+
+The website is a directory and will be used as a hub for quick access to facilities and respective socials.
 
 ### Colour Scheme
 
-The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
+There is a great emphasis on colour for this website. I wanted it to reflect the positive association that can be had with hobbies. I wanted it to be playful for children and adults alike; perhaps even evoke a sense of nostalgia for older users. 
+The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice. 
 
 ![Hero Image](assets/images/hero-sprinkles-1.webp)
 
-This palette reflects the hero image that features across each webpage. Many of the colours were extracted from this image and are accented throughout the website.
+This palette holds the pastel colours found in the hero image. They are used throughout the website where a solid colour is needed to make wording stand out from the hero image behind it. Many of the colours were extracted from this image and are accented throughout the website.
 
 ![Hobby Website Colour Palette](docs/sprinkles-23.png)
 
-This palette is a more vibrant version of the first. It is used primarily for defining elements such as headings or areas of highlighted interest. This is to illustrate contrast and essential elements of importance.
+This palette extracts the more vibrant colours found in the hero image. It is used primarily for defining elements such as headings, areas of importance or quick reference. 
 
 ![Hobby Website Colour Palette](docs/sprinkles-20.png)
 
