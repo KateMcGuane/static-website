@@ -18,6 +18,7 @@ It is designed with ease of access in mind. This website exists to showcase hobb
   - [Colour Scheme](#colour-scheme)
   - [Typography](#typography)
   - [Imagery](#imagery)
+  - [Favicon](#favicon)
   - [Wireframes](#wireframes)
 
 - [Features](#features)
@@ -108,9 +109,15 @@ Both colour palettes were created using the [Coolors](https://coolors.co/) websi
 
 Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
+
 ### Imagery
 
 All images were source from [Raw Pixel](https://www.rawpixel.com/).
+
+
+### Favicon
+
+I designed this favicon especially for the webpage using [Canva](https://www.canva.com/). I chose an illustrated 'h'. This was the best way to reflect the nature of the website. The paintbrush icon used in the header was also a contender (along with other hobby - related instruments), however it did not translate as clearly on the broswer tab compared to lettering. The 'h' has an illustrative quality to it, again reflecting the theme and typographies used throughout.
 
 
 ### Wireframes
@@ -241,7 +248,8 @@ I wrote the content for the website myself.
 
 ###  Media
 
-- Favicon: I created the favicon with [Canva](https://www.canva.com/). Their selection of artworks had more variety & compatibility for application as a favicon.
+- [Canva](https://www.canva.com/) was used for creating the favicon. Their selection of artworks had the best variety & compatibility for application as a favicon.
+- [Raw Pixel](https://www.rawpixel.com/) was used for sourcing images as it had the best selection available in one place.
 
 
 ###  Acknowledgments
