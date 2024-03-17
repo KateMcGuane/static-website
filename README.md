@@ -71,26 +71,32 @@ The website is designed with separate pages. This is to ensure ease of use, and 
 
 The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
 
+![Hero Image](assets/images/hero-sprinkles-1.webp)
+
 This palette reflects the hero image that features across each webpage. Many of the colours were extracted from this image and are accented throughout the website.
 
 ![Hobby Website Colour Palette](docs/sprinkles-23.png)
 
-This palette has stronger tones to it. It is used primarily for elements such as headings or areas of highlighted interest. This is to illustrate contrast and essential elements of importance.
+This palette is a more vibrant version of the first. It is used primarily for defining elements such as headings or areas of highlighted interest. This is to illustrate contrast and essential elements of importance.
 
 ![Hobby Website Colour Palette](docs/sprinkles-20.png)
 
-Both colour palettes were created using the [Coolors](https://coolors.co/) website.
+Both colour palettes were created using the [Coolors](https://coolors.co/) website. 
 
 ### Typography
 
 Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
-- Fredericka The Great
+- [Fredericka The Great](https://fonts.google.com/specimen/Fredericka+the+Great?preview.text=Fredericka%20The%20Great&query=Poppins)
 
   - This has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, and mirrors the chosen style of favicon.
 
-- Poppins
+![Fredericka The Great Font](docs/fonts/fredericka_the_great.png.PNG)
+
+- [Poppins](https://fonts.google.com/specimen/Poppins?preview.text=Poppins&query=Poppins)
   - This is a legible font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read.
+
+![Poppins Font](docs/fonts/poppins.png.PNG)
 
 ### Imagery
 
