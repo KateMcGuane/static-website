@@ -109,7 +109,7 @@ Both colour palettes were created using the [Coolors](https://coolors.co/) websi
 
 ![Poppins Font](docs/fonts/poppins.png.PNG)
 
-  - This is a legible font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more bulky content that requires more reading. 
+  - This is a legible, sans serif font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more word heavy content sections of the website. 
 
 Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
@@ -146,20 +146,14 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 
 ## Features
 
-### Existing Features
+| Page | Existing Features | Future Implementations |
+| :--- | :--- | :--- |
+| All Pages | - The navigation bar is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. - Each page features a hero image of sprinkles with other information being layered on top. - Block colours are used where there's writing so they do not get lost in the sprinkles background. - The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Once data is collected from those wanting to promote their business, club or facility it could be implemented across the website. This would include: - Links to their socials, webpages, features and contact details. - A map feature could be added with all associated organisations. |
+| About | General landing page that describes what the website & what it is about. | Add an image carousel  
+| Discover | Features a gallery of the hobbies that the website is connected to. They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. |
+| Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator contact information. |
+| Response | The Response page is only activated when the user clicks the 'Subscribe' button for the signup page. |
 
-#### Summary of Pages
-
-- The About page is a general landing page that describes the website.
-- The Discovery page features a gallery of the range of hobbies available in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues.
-- The Signup page features a one way means of contact. The sole purpose is to collect potential customer and facilitator contact information.
-- The Response page is only activated when the user clicks the 'Subscribe' button for the signup page.
-
-#### Reoccuring Page Features
-
-- The navigation is visible on all pages. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices.
-- Each page features a hero image of sprinkles with other information being layered on top.
-- The footer is a focal point that stands out clearly with a white background. This is carried throughout each page.
 
 ### Future Implementations
 
@@ -179,7 +173,9 @@ The current website acts as a free directory. There is potential to devleop the 
 
 ### Accessibility
 
-The entire website was designed with a responsive-first ethos in mind.
+The entire website was designed with a responsive-first ethos in mind. Some best practices implemented were:
+
+ * Using semantic HTML
 
 
 ---
@@ -263,6 +259,7 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
 - The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
 - I used this [milestone-testing.md](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md) as a guide to writing my own [TESTING.md](https://github.com/KateMcGuane/hobby/blob/main/TESTING.md) file, along with the corresponding [example](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md#found-in-translation----testing-documentation).
+- On my second edition of this project, I also formatted my README based off of [BookWorm](https://github.com/kera-cudmore/BookWorm/tree/main), again by [Kera Cudmore](https://github.com/kera-cudmore).
 
 
 ### Code Used
@@ -285,6 +282,7 @@ I wrote the content for the website myself.
 
 - A huge thank you to my mentor, Alex, who helped me resolve any major issues on my 1st ed.
 - Thank you to my mentor Juliia.
+- To Kera Cudmore, for providing astounding documentation. All of the repositories are so accessible for newbies and I would have been lost without them.
 - My dear friend, Sarah, you are a wonderful teacher, gave valauble insight & resources.
 - My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
 - To my tutor Laura, who provided a sense of calm when needed most. Your guidance gave me the reassurance I needed.
