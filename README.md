@@ -6,6 +6,7 @@ It is designed with ease of access in mind. This website exists to showcase hobb
 
 [View Hobby here](https://katemcguane.github.io/hobby/index.html)
 
+
 ## Table of Contents
 
 - [User Experience (UX)](#user-experience-ux)
@@ -41,7 +42,9 @@ It is designed with ease of access in mind. This website exists to showcase hobb
   - [ Media](#media)
   - [ Acknowledgments](#acknowledgments)
 
+
 ---
+
 
 ## User Experience (UX)
 
@@ -61,13 +64,14 @@ It is designed with ease of access in mind. This website exists to showcase hobb
 - I want to find the information I'm looking for with ease.
 - I want to be able to find and follow Hobby on socials.
 
+
 ---
+
 
 ## Design
 
-The website is designed with three separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. 
+The website is designed with three separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. The website is a directory and will be used as a hub for quick access to facilities and respective socials.
 
-The website is a directory and will be used as a hub for quick access to facilities and respective socials.
 
 ### Colour Scheme
 
@@ -89,25 +93,25 @@ Both colour palettes were created using the [Coolors](https://coolors.co/) websi
 
 ### Typography
 
-Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
-- [Fredericka The Great](https://fonts.google.com/specimen/Fredericka+the+Great?preview.text=Fredericka%20The%20Great&query=Poppins)
+[Fredericka The Great](https://fonts.google.com/specimen/Fredericka+the+Great?preview.text=Fredericka%20The%20Great&query=Poppins)
 
 ![Fredericka The Great Font](docs/fonts/fredericka_the_great.png.PNG)
 
   - This font has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, looks hand-drawn and mirrors the chosen style of favicon. It is illustrative, yet has a structural integrity and readability to it. Furthermore, it effortlessly reflects what the website is about. This is primarily used for the website heading "Hobby".
 
-- [Poppins](https://fonts.google.com/specimen/Poppins?preview.text=Poppins&query=Poppins)
+[Poppins](https://fonts.google.com/specimen/Poppins?preview.text=Poppins&query=Poppins)
 
 ![Poppins Font](docs/fonts/poppins.png.PNG)
 
   - This is a legible font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more bulky content that requires more reading. 
 
-
+Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
 ### Imagery
 
 All images were source from [Raw Pixel](https://www.rawpixel.com/).
+
 
 ### Wireframes
 
@@ -125,7 +129,9 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 
 ![Hobby Sign Up Page](docs/wireframes/hobbysignup.png)
 
+
 ---
+
 
 ## Features
 
@@ -159,20 +165,24 @@ The current website acts as a free directory. There is potential to devleop the 
 - Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves.
 - Create an app version of the website that makes its easy for all user types.
 
+
 ### Accessibility
 
 The entire website was designed with a responsive-first ethos in mind.
 
+
 ---
 
+
 ## Technologies Used
+
 
 ### Languages Used
 
 HTML & CSS were used to create this website.
 
-### Frameworks, Libraries & Programs Used
 
+### Frameworks, Libraries & Programs Used
 
 - [Codeanywhere](https://codeanywhere.com/) - Initial IDE used; transferred to VS Code midway.
 - [GitHub](https://github.com/)
@@ -182,6 +192,10 @@ HTML & CSS were used to create this website.
 - [Favicon.io](https://favicon.io/favicon-converter/)
 - [Coolors](https://coolors.co/)
 - [Raw Pixel](https://www.rawpixel.com/)
+
+
+---
+
 
 ## Deployment
 
@@ -194,6 +208,10 @@ The site was deployed early using Github Pages. The is how the live site was dep
 5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
 6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
+
+---
+
+
 ## Testing
 
 Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
@@ -201,24 +219,30 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
 ---
 
+
 ## Credits
+
 
 ### Markup
 
 - The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
 - I used this [milestone-testing.md](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md) as a guide to writing my own [TESTING.md](https://github.com/KateMcGuane/hobby/blob/main/TESTING.md) file, along with the corresponding [example](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md#found-in-translation----testing-documentation).
 
+
 ### Code Used
 
 - I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application.
+
 
 ### Content
 
 I wrote the content for the website myself.
 
+
 ###  Media
 
 - Favicon: I created the favicon with [Canva](https://www.canva.com/). Their selection of artworks had more variety & compatibility for application as a favicon.
+
 
 ###  Acknowledgments
 
