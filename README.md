@@ -86,20 +86,24 @@ This palette extracts the more vibrant colours found in the hero image. It is us
 
 Both colour palettes were created using the [Coolors](https://coolors.co/) website. 
 
+
 ### Typography
 
 Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
 - [Fredericka The Great](https://fonts.google.com/specimen/Fredericka+the+Great?preview.text=Fredericka%20The%20Great&query=Poppins)
 
-  - This has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, and mirrors the chosen style of favicon.
-
 ![Fredericka The Great Font](docs/fonts/fredericka_the_great.png.PNG)
 
+  - This font has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, looks hand-drawn and mirrors the chosen style of favicon. It is illustrative, yet has a structural integrity and readability to it. Furthermore, it effortlessly reflects what the website is about. This is primarily used for the website heading "Hobby".
+
 - [Poppins](https://fonts.google.com/specimen/Poppins?preview.text=Poppins&query=Poppins)
-  - This is a legible font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read.
 
 ![Poppins Font](docs/fonts/poppins.png.PNG)
+
+  - This is a legible font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more bulky content that requires more reading. 
+
+
 
 ### Imagery
 
