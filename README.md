@@ -246,7 +246,8 @@ I wrote the content for the website myself.
 
 ###  Acknowledgments
 
-- A huge thank you to my mentor, Alex, who helped me resolve any major issues.
-- My dear friend, Sarah, you are a wonderful teacher, and gave valauble insight.
+- A huge thank you to my mentor, Alex, who helped me resolve any major issues on my 1st ed.
+- Thank you to my mentor Juliia.
+- My dear friend, Sarah, you are a wonderful teacher, gave valauble insight & resources.
 - My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
-- To my tutor Laura, who provided a sense of calm when needed most. Your forewarnings were very useful, and acurate.
+- To my tutor Laura, who provided a sense of calm when needed most. Your guidance gave me the reassurance I needed.
