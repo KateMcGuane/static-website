@@ -170,6 +170,11 @@ main {
   margin: 50px 50px;
 }
 
+.discover-choose > h2 {
+  font-family: "Fredericka The Great", sans-serif;
+  letter-spacing: 6px;
+}
+
 .photos {
   border-style: solid;
   border-color: #fb5278;
