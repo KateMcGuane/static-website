@@ -160,7 +160,9 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 
 The entire website was designed with a responsive-first ethos in mind. Some best practices implemented were:
 
- * Using semantic HTML
+ - Using semantic HTML.
+ - Good used of colour contrast throughout the website.
+ - Using alt attributes to create acurate descriptions of each image. 
 
 
 ---
