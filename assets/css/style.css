@@ -130,6 +130,13 @@ main {
   text-align: center;
 }
 
+#welcome-message-about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 /* Discover Page - specific to (with Gallery) */
 .discover-choose {
   background-color: #a7d3bc;
