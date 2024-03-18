@@ -137,14 +137,18 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 20px;
-  /* Add some margin to separate it from #welcome-message */
-  width: 90%;
-  /* Parent already 100% - making this responsive */
-  max-width: 50rem;
-  /* Allow us to centre content while switching between scrrens */
-  padding: 2em;
-  /* Making screen beautiful */
+  margin-top: 20px; /* Add some margin to separate it from #welcome-message */
+  width: 90%; /* Parent already 100% - making this responsive */
+  max-width: 50rem; /* Allow us to centre content while switching between scrrens */
+  padding: 2em; /* Making screen beautiful */
+  text-align: center;
+  font-weight: 500;
+}
+
+#welcome-about > h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: x-large;
+  color: #fb5278;
 }
 
 /* Discover Page - specific to (with Gallery) */
