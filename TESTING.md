@@ -1,7 +1,8 @@
 # Hobby - Testing
 
 This file was created on the second edition of this project. All issues in the assessment feedback form were carried out first, followed by any additional information that would be of benefit to the README & TESTING sections.
-
+ 
+TO-DO:
 add image of finished site using [amiresponsive](https://ui.dev/amiresponsive)
 add link to live site deployed on github pages
 
