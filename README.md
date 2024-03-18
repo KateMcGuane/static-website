@@ -178,14 +178,18 @@ HTML & CSS were used to create this website.
 
 ### Frameworks, Libraries & Programs Used
 
+- [Am I Responsive?](http://ami.responsivedesign.is/) - To demonstrate the website on a range of devices.
+- [Balsamiq](https://balsamiq.com/) - To create wireframes.
+- [Canva](https://www.canva.com/) - To create favicon image.
 - [Codeanywhere](https://codeanywhere.com/) - Initial IDE used; transferred to VS Code midway.
-- [GitHub](https://github.com/)
-- [Google Fonts](https://codeanywhere.com/signin)
-- [Font Awesome](https://fontawesome.com/)
-- [Canva](https://www.canva.com/)
-- [Favicon.io](https://favicon.io/favicon-converter/)
-- [Coolors](https://coolors.co/)
-- [Raw Pixel](https://www.rawpixel.com/)
+- [Coolors](https://coolors.co/) - To create colour palettes.
+- [Favicon.io](https://favicon.io/favicon-converter/) - To convert favicon image into suitable sizes.
+- [Font Awesome](https://fontawesome.com/) - To create paintbrush icon in header.
+- [GitHub](https://github.com/) - To store associated files & developments of the website.
+- [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - For troubleshooting and testing features, styling and responsiveness.
+- [Google Fonts](https://codeanywhere.com/signin) - To extract fonts for the website. 
+- [Raw Pixel](https://www.rawpixel.com/) - For images.
+- [VS Code](https://code.visualstudio.com/) - Primary IDE used.
 
 
 ---
