@@ -1,8 +1,9 @@
 # Hobby
 
-This is a website for Hobby, a fictional recreational directory. The main purpose of the website is to easily connect hobbyists with facilitators alike.
+Hobby is a fictional recreational directory. It is a comprehensive website dedicated to an array of hobbies. It is open to complete beginners, seasoned enthusiasts and associated hobby organisations. This directory is a gateway to discovering old and new hobbies alike, specific to your locality & community. 
 
-This website is designed with ease of access in mind. Thi exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence.
+The main purpose of this website is to easily connect hobbyists with other like-minded individuals and facilitators. It allows users to gain quick access to past times of interest, and even promotes more nuanced hobbies. It also highlights business owners, facilitators and clubs/organisations with a new, collective online presence.
+
 
 [View Hobby here](https://katemcguane.github.io/hobby/index.html)
 

@@ -131,11 +131,12 @@ main {
 }
 
 #welcome-about {
+  background-color: #a7d3bc;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: A7D3BC;
+  margin-top: 20px; /* Add some margin to separate it from #welcome-message */
 }
 
 /* Discover Page - specific to (with Gallery) */
