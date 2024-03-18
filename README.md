@@ -177,6 +177,7 @@ HTML & CSS were used to create this website.
 - [Am I Responsive?](http://ami.responsivedesign.is/) - To demonstrate the website on a range of devices.
 - [Balsamiq](https://balsamiq.com/) - To create wireframes.
 - [Canva](https://www.canva.com/) - To create favicon image.
+- [Chat GPT](https://chat.openai.com/) - To create written content & general consultation when troubleshooting.
 - [Codeanywhere](https://codeanywhere.com/) - Initial IDE used; transferred to VS Code midway.
 - [Coolors](https://coolors.co/) - To create colour palettes.
 - [Favicon.io](https://favicon.io/favicon-converter/) - To convert favicon image into suitable sizes.
@@ -256,7 +257,8 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
 ### Content
 
-I wrote the content for the website myself.
+- The paragraph on the 'About' page (index.html), was written by [Chat GPT](https://chat.openai.com/).
+- Any other content, I wrote the content for the website myself.
 
 
 ###  Media
