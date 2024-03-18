@@ -57,7 +57,7 @@ header a {
   list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
   margin-bottom: 1em;
 }
 
@@ -78,7 +78,7 @@ nav {
 }
 
 /* Nav toggle */
-#nav-toggle:checked ~ nav {
+#nav-toggle:checked~nav {
   display: block;
 }
 
@@ -107,6 +107,7 @@ main {
   justify-content: center;
   align-items: center;
   flex: 1 0 auto;
+  flex-direction: column;
 }
 
 /* Main banner */
@@ -125,7 +126,7 @@ main {
   flex-direction: column;
 }
 
-#welcome-message > h2 {
+#welcome-message>h2 {
   font-size: 100%;
   text-align: center;
 }
@@ -136,7 +137,14 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 20px; /* Add some margin to separate it from #welcome-message */
+  margin-top: 20px;
+  /* Add some margin to separate it from #welcome-message */
+  width: 90%;
+  /* Parent already 100% - making this responsive */
+  max-width: 50rem;
+  /* Allow us to centre content while switching between scrrens */
+  padding: 2em;
+  /* Making screen beautiful */
 }
 
 /* Discover Page - specific to (with Gallery) */
@@ -187,7 +195,7 @@ main {
   object-fit: cover;
 }
 
-.cubicle > h3 {
+.cubicle>h3 {
   color: #3a3a3a;
   font-weight: 600;
   height: 10%;
@@ -213,7 +221,7 @@ main {
   flex-direction: column;
 }
 
-.signup-container > h2 {
+.signup-container>h2 {
   padding-bottom: 20px;
   color: #fb5278;
   font-weight: bold;
@@ -228,14 +236,15 @@ main {
   align-items: center;
 }
 
-#input-field-first-name, 
-#input-field-last-name, 
+#input-field-first-name,
+#input-field-last-name,
 #input-field-email {
   height: 1.5rem;
   width: 100%;
   padding: 4px 8px;
   border-radius: 5px;
 }
+
 .btn-container {
   display: flex;
   justify-content: center;
@@ -329,6 +338,7 @@ main {
 
 /* MEDIA QUERY: tablets & larger (768px & up) */
 @media screen and (min-width: 768px) {
+
   /* Header */
   nav {
     display: block;
@@ -342,7 +352,7 @@ main {
     display: flex;
   }
 
-  #menu > li {
+  #menu>li {
     padding-left: 1rem;
   }
 
