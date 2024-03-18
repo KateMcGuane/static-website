@@ -147,8 +147,8 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 ## Features
 
 | Page | Existing Features | Future Implementations |
-| :--- | :--- | :--- |
-| All Pages | * The navigation bar is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. <br>* Each page features a hero image of sprinkles with other information being layered on top. <br>* Block colours are used where there's writing so they do not get lost in the sprinkles background. <br>* The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Once data is collected from those wanting to promote their business, club or facility it could be implemented across the website. This would include: <br>* Links to their socials, webpages, features and contact details. <br>* A map feature could be added with all associated organisations. |
+| --- | --- | --- |
+| All Pages | * The navigation bar is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. <br>* Each page features a hero image of sprinkles with other information being layered on top.  * Block colours are used where there's writing so they do not get lost in the sprinkles background.  * The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Once data is collected from those wanting to promote their business, club or facility it could be implemented across the website. This would include:  * Links to their socials, webpages, features and contact details.  * A map feature could be added with all associated organisations. |
 | About | General landing page that describes what the website & what it is about. | Add an image carousel  
 | Discover | Features a gallery of the hobbies that the website is connected to. They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. |
 | Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator contact information. |
@@ -166,7 +166,7 @@ Aspects that could elevate the current website:
 The current website acts as a free directory. There is potential to devleop the concept further by:
 
 - Adding a login page whereby the user can review the listed businesses.
-  - - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
+  - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
 - Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves.
 - Create an app version of the website that makes its easy for all user types.
 
