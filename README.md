@@ -148,27 +148,12 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 
 | Page | Existing Features | Future Implementations |
 | --- | --- | --- |
-| All Pages | - The navigation bar is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. <br> - Each page features a hero image of sprinkles with other information being layered on top. <br> - Block colours are used where there's writing so they do not get lost in the sprinkles background. <br> - The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Once data is collected from those wanting to promote their business, club or facility it could be implemented across the website. This would include: <br> - Links to their socials, webpages, features and contact details. <br> - A map feature could be added with all associated organisations. |
-| About | General landing page that describes what the website & what it is about. | Add an image carousel  
-| Discover | Features a gallery of the hobbies that the website is connected to. They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. |
-| Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator contact information. |
-| Response | The Response page is only activated when the user clicks the 'Subscribe' button for the signup page. |
-
-
-### Future Implementations
-
-Aspects that could elevate the current website:
-
-- Link in real-life businesses.
-- Add a map feature on the discover page to said businesses.
-- Add contact informtion.
-
-The current website acts as a free directory. There is potential to devleop the concept further by:
-
-- Adding a login page whereby the user can review the listed businesses.
-  - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs.
-- Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves.
-- Create an app version of the website that makes its easy for all user types.
+| All Current Pages | - Naviagation Bar: This is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. <br> - Hero Image: Each page features a hero image of sprinkles with other information being layered on top. <br> - Colour: Block colours are used where there's writing so they do not get lost in the sprinkles background. <br> - Footer: The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Footer: Expand footer to include contact details, T&Cs, Privacy Policy etc. <br>
+| About | General landing page that describes what the website & what it is about. | - Add an image carousel. <br> - Add a map listing all hobbie in the area. <br> - Add a preview section of reviews from former clientel. |
+| Discover | This is the main directory page. It features a gallery of the hobbies that the website is connected to (links not yet implemented). They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. | Once data is collected from those wanting to promote their business, club or facility it could be utilized across the website. Each hobby displayed would connect to the organisations offering those services. This would also include: <br> - Links to their socials, webpages, features and contact details. <br> - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs. | 
+| Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments. 
+| Response | The Response page is only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. |
+| Future Implementations | --- | - Blog Page: A hobby team member tries a new hobby each week at one of the participating associations. <br> - Login Page: Participating organisations can list information about their business. Users of the website can write reviews about the businesses listed. <br> - Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves. <br> - Create an app version of the website that makes its easy for all user types. <br> Booking system for all appplilcable businesses. <br> Paid subscription for affliates. |
 
 
 ### Accessibility
