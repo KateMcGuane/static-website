@@ -130,11 +130,12 @@ main {
   text-align: center;
 }
 
-#welcome-message-about {
+#welcome-about {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: A7D3BC;
 }
 
 /* Discover Page - specific to (with Gallery) */
