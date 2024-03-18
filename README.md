@@ -2,7 +2,7 @@
 
 This is a website for Hobby, a fictional recreational directory. The main purpose of the website is to easily connect hobbyists with facilitators alike.
 
-It is designed with ease of access in mind. This website exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence.
+This website is designed with ease of access in mind. Thi exists to showcase hobby facilitators in your area that may otherwise go unheard of. It is to highlight the presence of businesses, clubs and activities you may not know exist due to a lack of online presence.
 
 [View Hobby here](https://katemcguane.github.io/hobby/index.html)
 
@@ -22,15 +22,11 @@ It is designed with ease of access in mind. This website exists to showcase hobb
   - [Wireframes](#wireframes)
 
 - [Features](#features)
-  - [Existing Features](#existing-features)
-    - [Summary of Pages](#summary-of-pages)
-    - [Reoccuring Page Features](#reoccuring-page-features)
-  - [Future Implementations](#future-implementations)
   - [Accessibility](#accessibility)
 
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
-  - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+  - [Libraries \& Programs Used](#libraries--programs-used)
 
 - [Deployment \& Local Development](#deployment--local-development)
   - [Deployment](#deployment)
@@ -44,8 +40,8 @@ It is designed with ease of access in mind. This website exists to showcase hobb
   - [Markup](#markup)
   - [Code Used](#code-used)
   - [Content](#content)
-  - [ Media](#media)
-  - [ Acknowledgments](#acknowledgments)
+  - [Media](#media)
+  - [Acknowledgments](#acknowledgments)
 
 
 ---
@@ -176,7 +172,7 @@ The entire website was designed with a responsive-first ethos in mind. Some best
 HTML & CSS were used to create this website.
 
 
-### Frameworks, Libraries & Programs Used
+### Libraries & Programs Used
 
 - [Am I Responsive?](http://ami.responsivedesign.is/) - To demonstrate the website on a range of devices.
 - [Balsamiq](https://balsamiq.com/) - To create wireframes.
