@@ -250,7 +250,7 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
 ### Content
 
-- The paragraph on the 'About' page (index.html), was written by [Chat GPT](https://chat.openai.com/).
+- The paragraph on the 'About' page (index.html), was written using [Chat GPT](https://chat.openai.com/).
 - Any other content, I wrote the content for the website myself.
 
 
