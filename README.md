@@ -46,7 +46,7 @@ The main purpose of this website is to easily connect hobbyists with other like-
 
 
 ---
-
+![Hobby Logo](docs/hobby_logo.PNG)
 
 ## User Experience (UX)
 
