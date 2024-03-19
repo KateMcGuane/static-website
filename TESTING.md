@@ -106,6 +106,7 @@ Full testing can be tedious, so it is great to try and break this part up into s
 | 6 | Duplicate ID input-field in signup.html | I removed the duplicate of the defined class attribute in the section of signup.html. I changed the name of each ID to reflect the use of the input field. I then added these names to the style.css, so as to avoid creating any additional bugs. |
 | 7 | More descriptive title tag needed | I elaborated on title tag of each html page, & described each once accordingly. |
 | 8 | After adding in a description on the first page, the assigned IDs also affected the layout of the Sign Up page. I attemped to fix this using specificity. | The bug was easily resolved by changing the allocated ID to suit the Sigun Up page specifically. |
+| 9 | After altering the ID, it affected the responsiveness of the smaller screens. The containers would no longer stack neatly and were spilling out over the edge of the screen. | I added a <em>flex-wrap: wrap;<em> to the newly defined ID in the #hero-hobbies-subscribe section. |
 
 - Once all of the solutions were carried out, I reviewed each issue to ensure all corrections were applied & no further issues were occurring.
 
