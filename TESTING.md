@@ -105,6 +105,7 @@ Full testing can be tedious, so it is great to try and break this part up into s
 | 5 | Duplicate of defined class attribute in section of signup.html. | I removed this unnecessary class attribute. |
 | 6 | Duplicate ID input-field in signup.html | I removed the duplicate of the defined class attribute in the section of signup.html. I changed the name of each ID to reflect the use of the input field. I then added these names to the style.css, so as to avoid creating any additional bugs. |
 | 7 | More descriptive title tag needed | I elaborated on title tag of each html page, & described each once accordingly. |
+| 8 | After adding in a description on the first page, the assigned IDs also affected the layout of the Sign Up page.
 
 - Once all of the solutions were carried out, I reviewed each issue to ensure all corrections were applied & no further issues were occurring.
 
