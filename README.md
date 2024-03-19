@@ -1,4 +1,9 @@
-# Hobby
+![Hobby Logo](docs/hobby_logo.PNG)
+
+---
+
+
+# *Hobby*
 
 Hobby is a fictional recreational directory. It is a comprehensive website dedicated to an array of hobbies. It is open to complete beginners, seasoned enthusiasts and associated hobby organisations. This directory is a gateway to discovering old and new hobbies alike, specific to your locality & community. 
 
@@ -7,46 +12,7 @@ The main purpose of this website is to easily connect hobbyists with other like-
 
 [View Hobby here](https://katemcguane.github.io/hobby/index.html)
 
-
-## Table of Contents
-
-- [User Experience (UX)](#user-experience-ux)
-    - [User Stories](#user-stories)
-      - [Client Goals](#client-goals)
-      - [Visitor Goals](#visitor-goals)
-
-- [Design](#design)
-  - [Colour Scheme](#colour-scheme)
-  - [Typography](#typography)
-  - [Imagery](#imagery)
-  - [Favicon](#favicon)
-  - [Wireframes](#wireframes)
-
-- [Features](#features)
-  - [Accessibility](#accessibility)
-
-- [Technologies Used](#technologies-used)
-  - [Languages Used](#languages-used)
-  - [Libraries \& Programs Used](#libraries--programs-used)
-
-- [Deployment \& Local Development](#deployment--local-development)
-  - [Deployment](#deployment)
-  - [Local Development](#local-development)
-    - [How To Fork](#how-to-fork)
-    - [How To Clone](#how-to-clone)
-
-- [Testing](#testing)
-
-- [Credits](#credits)
-  - [Markup](#markup)
-  - [Code Used](#code-used)
-  - [Content](#content)
-  - [Media](#media)
-  - [Acknowledgments](#acknowledgments)
-
-
 ---
-![Hobby Logo](docs/hobby_logo.PNG)
 
 ## User Experience (UX)
 
@@ -54,7 +20,7 @@ The main purpose of this website is to easily connect hobbyists with other like-
 
 | User Type | Overview | Specific Goals |
 | --- | --- | --- |
-| Client | Create a website directory that connects hobbyists and facilitators alike. I want to ensure that the platform provides an enriching and engaging experience for users, empowering them to discover, explore, and connect with various hobbies and interests. | - To be able to view the site on a range of device sizes. <br> - Introduce all user types to the concept. <br> - To collect user data & create a point of direct contacct with all user types in by signing up to a newsletter. <br> - To direct visitors to our socials. |
+| Client | Create a website directory that connects hobbyists and facilitators alike. I want to ensure that the platform provides an enriching and engaging experience for users, empowering them to discover, explore, and connect with various hobbies and interests. | - I want to be able to view the site on a range of device sizes. <br> - I want to introduce all user types to the concept. <br> - I want to collect user data & create a point of direct contacct with all user types in by signing up to a newsletter. <br> - I want to direct visitors to our socials. |
 | Hobbyist | As a hobby enthusiast, I want to explore a comprehensive website directory dedicated to hobbies, so that I can discover new passions, connect with like-minded individuals, and access resources to enhance my hobby experience. | - I want to find out what Hobby is, and if it has the activity that I'm looking for. <br> - I want a website that's easy to navigate. <br> - I want to find the information I'm looking for with ease. <br> - I want to be able to find and follow Hobby on socials. |
 | Facilitator | I want to collaborate with industry partners, enrich my business/organisation and reach new audiences. | - I want to find out what Hobby is, and if it a good fit for my business/organisation. <br> - I want a website that's easy to navigate. <br> - I want to connect with the website owner. |
 
@@ -137,7 +103,7 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 
 | Page | Existing Features | Future Implementations |
 | --- | --- | --- |
-| All Current Pages | - Naviagation Bar: This is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. <br> - Hero Image: Each page features a hero image of sprinkles with other information being layered on top. <br> - Colour: Block colours are used where there's writing so they do not get lost in the sprinkles background. <br> - Footer: The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Footer: Expand footer to include contact details, T&Cs, Privacy Policy etc. <br>
+| All Pages | - Naviagation Bar: This is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. <br> - Hero Image: Each page features a hero image of sprinkles with other information being layered on top. <br> - Colour: Block colours are used where there's writing so they do not get lost in the sprinkles background. <br> - Footer: The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Footer: Expand footer to include contact details, T&Cs, Privacy Policy etc. <br>
 | About | General landing page that describes what the website & what it is about. | - Add an image carousel. <br> - Add a map listing all hobbies in the area. <br> - Add a preview section of reviews from former clientel. |
 | Discover | This is the main directory page. It features a gallery of the hobbies that the website is connected to (links not yet implemented). They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. | Once data is collected from those wanting to promote their business, club or facility it could be utilized across the website. Each hobby displayed would connect to the organisations offering those services. This would also include: <br> - Links to their socials, webpages, features and contact details. <br> - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs. | 
 | Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments. 
