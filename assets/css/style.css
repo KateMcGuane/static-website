@@ -237,11 +237,6 @@ main {
   padding: 30px;
 }
 
-/*section > #hero-hobbies > .form-section {
-  display: flex;
-  flex-direction: row;
-}*/
-
 .signup-container {
   background-color: #6be6a8;
   font-size: 100%;
@@ -401,7 +396,7 @@ main {
   #welcome-message {
     width: 100%;
   }
-  
+
   .form-section {
     flex-direction: row;
   }

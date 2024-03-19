@@ -5,7 +5,7 @@
 
 # *Hobby*
 
-Hobby is a fictional recreational directory. It is a comprehensive website dedicated to an array of hobbies. It is open to complete beginners, seasoned enthusiasts and associated hobby organisations. This directory is a gateway to discovering old and new hobbies alike, specific to your locality & community. 
+Hobby is a fictional recreational directory. It is a comprehensive website dedicated to an array of hobbies. It is open to complete beginners, seasoned enthusiasts and associated hobby organisations. This directory is a gateway to discovering old and new hobbies alike, specific to your locality & community.
 
 The main purpose of this website is to easily connect hobbyists with other like-minded individuals and facilitators. It allows users to gain quick access to pastimes of interest, and promotes more nuanced hobbies. It also highlights business owners, facilitators and clubs/organisations with a new, collective online presence.
 
@@ -35,8 +35,8 @@ The website is designed with three separate pages. This is to ensure ease of use
 
 ### Colour Scheme
 
-There is a great emphasis on colour for this website. I wanted it to reflect the positive association that can be had with hobbies. I wanted it to be playful for children and adults alike; perhaps even evoke a sense of nostalgia for older users. 
-The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice. 
+There is a great emphasis on colour for this website. I wanted it to reflect the positive association that can be had with hobbies. I wanted it to be playful for children and adults alike; perhaps even evoke a sense of nostalgia for older users.
+The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
 
 ![Hero Image](assets/images/hero-sprinkles-1.webp)
 
@@ -44,11 +44,11 @@ This palette holds the pastel colours found in the hero image. They are used thr
 
 ![Hobby Website Colour Palette](docs/sprinkles-23.png)
 
-This palette extracts the more vibrant colours found in the hero image. It is used primarily for defining elements such as headings, areas of importance or quick reference. 
+This palette extracts the more vibrant colours found in the hero image. It is used primarily for defining elements such as headings, areas of importance or quick reference.
 
 ![Hobby Website Colour Palette](docs/sprinkles-20.png)
 
-Both colour palettes were created using the [Coolors](https://coolors.co/) website. 
+Both colour palettes were created using the [Coolors](https://coolors.co/) website.
 
 
 ### Typography
@@ -64,7 +64,7 @@ Both colour palettes were created using the [Coolors](https://coolors.co/) websi
 
 ![Poppins Font](docs/fonts/poppins.png.PNG)
 
-  - This is a legible, sans serif font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more word heavy content sections of the website. 
+  - This is a legible, sans serif font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more word heavy content sections of the website.
 
 Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
@@ -105,8 +105,8 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 | --- | --- | --- |
 | All Pages | - Naviagation Bar: This is visible on all pages. It is kept white so as to remain clear. The favicon styles are refelcted in the header. There is a paintbrush icon to give an idea as to what the page is about. This has a toggle feature that links to each page when using smaller devices. <br> - Hero Image: Each page features a hero image of sprinkles with other information being layered on top. <br> - Colour: Block colours are used where there's writing so they do not get lost in the sprinkles background. <br> - Footer: The footer is a focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | Footer: Expand footer to include contact details, T&Cs, Privacy Policy etc. <br>
 | About | General landing page that describes what the website & what it is about. | - Add an image carousel. <br> - Add a map listing all hobbies in the area. <br> - Add a preview section of reviews from former clientel. |
-| Discover | This is the main directory page. It features a gallery of the hobbies that the website is connected to (links not yet implemented). They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. | Once data is collected from those wanting to promote their business, club or facility it could be utilized across the website. Each hobby displayed would connect to the organisations offering those services. This would also include: <br> - Links to their socials, webpages, features and contact details. <br> - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs. | 
-| Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments. 
+| Discover | This is the main directory page. It features a gallery of the hobbies that the website is connected to (links not yet implemented). They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. | Once data is collected from those wanting to promote their business, club or facility it could be utilized across the website. Each hobby displayed would connect to the organisations offering those services. This would also include: <br> - Links to their socials, webpages, features and contact details. <br> - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs. |
+| Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments.
 | Response | The Response page is only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. |
 | Ideas |  | - Blog Page: A hobby team member tries a new hobby each week at one of the participating associations. <br> - Login Page: Participating organisations can list information about their business. Users of the website can write reviews about the businesses listed. <br> - Community Forum: Allowing users to connect & share experiences. <br> - Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves. <br> - App Devlopment: Create an app version of the website that makes access more innovative for all user types. <br> Booking system for all appplilcable businesses. <br> - Paid subscription for affliates. |
 
@@ -117,7 +117,7 @@ The entire website was designed with a responsive-first ethos in mind. Some best
 
  - Using semantic HTML.
  - Good used of colour contrast throughout the website.
- - Using alt attributes to create acurate descriptions of each image. 
+ - Using alt attributes to create acurate descriptions of each image.
 
 
 ---
@@ -143,7 +143,7 @@ HTML & CSS were used to create this website.
 - [Font Awesome](https://fontawesome.com/) - To create paintbrush icon in header.
 - [GitHub](https://github.com/) - To store associated files & developments of the website.
 - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - For troubleshooting and testing features, styling and responsiveness.
-- [Google Fonts](https://codeanywhere.com/signin) - To extract fonts for the website. 
+- [Google Fonts](https://codeanywhere.com/signin) - To extract fonts for the website.
 - [Raw Pixel](https://www.rawpixel.com/) - For images.
 - [VS Code](https://code.visualstudio.com/) - Primary IDE used.
 
