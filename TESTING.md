@@ -57,22 +57,22 @@ The responsiveness was confirmed with [Responsive Website Design Tester](https:/
 
   #### About Page (Home Page)
 
-    - No errors or warnings were found when passing through the official W3C validator.
+  - No errors or warnings were found when passing through the official W3C validator.
 
   ![index.html](testing/w3/w3_index.PNG)
 
 
   #### Discover Page
 
-    - No errors or warnings were found when passing through the official W3C validator.
+  - No errors or warnings were found when passing through the official W3C validator.
 
   ![discover.html](testing/w3/w3_discover.PNG)
 
 
   #### Sign Up Page
 
-    - No errors or warnings were found when passing through the official W3C validator.
-    - I did encounter some errors before final resolution. See solved bugs below.
+  - No errors or warnings were found when passing through the official W3C validator.
+  - I did encounter some errors before final resolution. See solved bugs below.
 
   ![signup.html](testing/w3/w3_signup.PNG)
 
