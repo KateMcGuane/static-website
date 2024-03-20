@@ -1,5 +1,7 @@
 # Hobby - Testing
 
+![Hobby shown on a variety of screen sizes](assets/images/hobby_am_i_responsive.PNG)
+
 This file was created on the second edition of this project. All issues in the assessment feedback form were carried out first, followed by any additional information that would be of benefit to the README & TESTING sections.
 
 TO-DO:
