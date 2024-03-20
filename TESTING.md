@@ -11,12 +11,19 @@ Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) 
 
 ## Compatability
 
+The website was tested on three different browsers: Brave, Chrome, & Microsoft Edge. It was compatable across all three.
+
+  - Brave: ![Brave](testing/browser/brave_browser.gif)
+  - Chrome: ![Chrome](testing/browser/chrome_browser.gif)
+  - Microsoft Edge: ![Microsoft Edge](testing/browser/browser_microsoft_edge.gif)
+
+All external links to socials work on the browsers listed & open a new tab for each corresponding link.
 
 ---
 
 ## Responsiveness
 
-The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/).
+The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/). The following are samples of some of the responsiveness implemented.
 
   - Desktop Screens: ![Desktop Responsiveness](testing/responsiveness/desktop_responsiveness.gif) !
   - Tablet Screens: ![Tablet Responsiveness](testing/responsiveness/tablet_responsiveness.gif)
