@@ -48,7 +48,7 @@ Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) 
 
 - No errors or warnings were found when passing through the official W3C (Jigsaw) validator
 
-* [style.css](testing/w3/w3-css.png) - Passed, no errors found.
+![style.css](testing/w3/w3_css.PNG)
 
 
 ---
