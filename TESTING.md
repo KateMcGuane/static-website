@@ -19,13 +19,16 @@ The following elements were tested manually on each of the browsers:
   - The contact form works correctly & displays the necessary response page on execution.
 
 
-  ### Brave ![Brave](testing/browser/brave_browser.gif)
+  ### Brave
+  ![Brave](testing/browser/brave_browser.gif)
 
 
-  ### Chrome ![Chrome](testing/browser/chrome_browser.gif)
+  ### Chrome
+  ![Chrome](testing/browser/chrome_browser.gif)
 
 
-  ### Microsoft Edge ![Microsoft Edge](testing/browser/browser_microsoft_edge.gif)
+  ### Microsoft Edge
+  ![Microsoft Edge](testing/browser/browser_microsoft_edge.gif)
 
 
 ---
