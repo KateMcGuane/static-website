@@ -37,13 +37,13 @@ The website was tested manually throughout the project development using DevTool
 The responsiveness was confirmed with [Responsive Website Design Tester](https://responsivedesignchecker.com/). The following are samples of some of the responsiveness implemented.
 
 
-  ### Desktop Screens: ![Desktop Responsiveness](testing/responsiveness/desktop_responsiveness.gif) 
+  ### Desktop Screens ![Desktop Responsiveness](testing/responsiveness/desktop_responsiveness.gif)
 
 
-  ### Tablet Screens: ![Tablet Responsiveness](testing/responsiveness/tablet_responsiveness.gif)
+  ### Tablet Screens ![Tablet Responsiveness](testing/responsiveness/tablet_responsiveness.gif)
 
 
-  ### Mobile Screens: ![Mobile Responsiveness](testing/responsiveness/mobile_responsiveness.gif)
+  ### Mobile Screens ![Mobile Responsiveness](testing/responsiveness/mobile_responsiveness.gif)
 
 
 ---
