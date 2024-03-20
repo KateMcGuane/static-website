@@ -217,10 +217,10 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
   ### Markup
 
-  First Edition:
+  - First Edition: <br>
     - The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
 
-  Second Edition:
+  - Second Edition: <br>
     - I formatted some of my README based off of [BookWorm](https://github.com/kera-cudmore/BookWorm/tree/main), again by [Kera Cudmore](https://github.com/kera-cudmore).
     - I based my testing documentation off of [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/TESTING.md#manual-testing) from my mentor, [Juliia Konovalova](https://github.com/IuliiaKonovalova/). 
 
