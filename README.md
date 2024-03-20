@@ -103,11 +103,11 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 
 | Features & Pages| Existing Features | Future Implementations | Screenshots |
 | --- | --- | --- | --- |
-| Navigation Bar | - Visible on all pages. <br> - Kept white so as to remain clear. <br> - The favicon styles are refelcted in the header. <br> - There is a paintbrush icon to give an idea as to what the page is about. <br> - Has a toggle feature that links to each page when using smaller devices. | --- | --- |
-| Hero Image | - Each page features a hero image of sprinkles with other information being layered on top. | - Experiment with more options. | --- |
-| Colour | - Block colours are used where there's writing so they do not get lost in the sprinkles background. | ---| --- |
+| Navigation Bar | - Visible on all pages. <br> - Kept white so as to remain clear. <br> - The favicon styles are refelcted in the header. <br> - There is a paintbrush icon to give an idea as to what the page is about. <br> - Has a toggle feature that links to each page when using smaller devices. | --- | ![Naviagtion Bar](docs/features/navigation_bar.PNG) |
+| Hero Image | - Each page features a hero image of sprinkles with other information being layered on top. | - Experiment with more options. | ![Hero Image About Page](docs/features/hero_image_about_page.PNG) ![Hero Image Discover Page](docs/features/hero_image_discover_page.PNG) ![Hero Image Sign Up Page](docs/features/hero_image_signup_page.PNG) ![Hero Image Response Page](docs/features/hero_image_response_page.PNG) |
+| Colour | - Block colours are used where there's writing so they do not get lost in the sprinkles background. | ---| ![colour About Page](docs/features/colour_about_page.PNG)  ![colour Discover Page](docs/features/colour_discover_page.PNG) ![colour Sign Up Page](docs/features/colour_signup_page.PNG) ![colour Response Page](docs/features/colour_discover_page.PNG)  |
 | Footer | - A focal point that stands out clearly with a white background. This is carried throughout each page as it is essential to create a strong social following as the concept of the website is community-based. | - Expand footer to include contact details, T&Cs, Privacy Policy etc. | --- |
-| About | General landing page that describes what the website & what it is about. | - Add an image carousel. <br> - Add a map listing all hobbies in the area. <br> - Add a preview section of reviews from former clientel. | --- |
+| About | General landing page that describes what the website & what it is about. | - Add an image carousel. <br> - Add a map listing all hobbies in the area. <br> - Add a preview section of reviews from former clientel. | ![Footer](docs/features/footer.PNG) |
 | Discover | This is the main directory page. It features a gallery of the hobbies that the website is connected to (links not yet implemented). They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. | Once data is collected from those wanting to promote their business, club or facility it could be utilized across the website. Each hobby displayed would connect to the organisations offering those services. This would also include: <br> - Links to their socials, webpages, features and contact details. <br> - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs. | --- |
 | Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments. | --- |
 | Response | - Only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. <br> - Home button below notifcation to redirect users. | --- | --- |
@@ -242,7 +242,7 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 ###  Acknowledgments
 
 - A huge thank you to my mentor, Alex, who helped me resolve any major issues on my 1st ed.
-- Thank you to my mentor Juliia.
+- Thank you to my mentor Juliia. Your guidance was crutial and made the objectives more concise.
 - To Kera Cudmore, for providing astounding documentation. All of the repositories are so accessible for newbies and I would have been lost without them.
 - My dear friend, Sarah, you are a wonderful teacher, gave valauble insight & resources.
 - My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
