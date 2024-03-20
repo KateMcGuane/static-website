@@ -112,7 +112,7 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 | Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments. | ![Sign Up Page](docs/features/hobby_signup_page.PNG) |
 | Response | - Only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. <br> - Home button below notifcation to redirect users. | --- | ![Response Page](docs/features/hobby_response_page.PNG) |
 
-### Potential Future Features
+### Potential Future Developments
 
 | Feature | Description | 
 | --- | --- |

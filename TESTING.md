@@ -31,7 +31,7 @@ Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) 
 #### Sign Up Page
 
 - No errors or warnings were found when passing through the official W3C validator. 
-- Did encounter some errors before final resolution. See solved bugs below. 
+- I did encounter some errors before final resolution. See solved bugs below. 
 
 ![signup.html](testing/w3/w3_signup.PNG) 
 
@@ -39,7 +39,7 @@ Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) 
 #### Response Page
 
 - No errors or warnings were found when passing through the official W3C validator. 
-- Did encounter a warning before final resolution. See solved bugs below. 
+- I did encounter a warning before final resolution. See solved bugs below. 
 
 ![response.html](testing/w3/w3_response.PNG)
 
@@ -60,23 +60,33 @@ I used Lighthouse in DevTools to confirm that the website is performing well, ac
     
   ### About Page (Home Page)
 
+  #### Desktop
   ![About Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_about.PNG)
+  #### Mobile
   ![About Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_about.PNG)
 
 
   ### Discover Page
 
+  #### Desktop
   ![Discover Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_discover.PNG)
+  #### Mobile
   ![Discover Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_discover.PNG)
+
 
   ### Sign Up Page
 
+  #### Desktop
   ![Sign Up Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_signup.PNG)
+  #### Mobile
   ![Sign Up Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_signup.PNG)
+
 
   ### Response page
 
+  #### Desktop
   ![Response Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_response.PNG)
+  #### Mobile
   ![Response Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_response.PNG)
 
 
