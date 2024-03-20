@@ -13,11 +13,17 @@ Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) 
 
 The website was tested on three different browsers: Brave, Chrome, & Microsoft Edge. It was compatable across all three.
 
-  - Brave: ![Brave](testing/browser/brave_browser.gif)
-  - Chrome: ![Chrome](testing/browser/chrome_browser.gif)
-  - Microsoft Edge: ![Microsoft Edge](testing/browser/browser_microsoft_edge.gif)
+The following elements were tested manually on each of the browsers:
+  - Internal links work correctly, & as expected.
+  - External links to socials work on the browsers listed & open a new tab for each corresponding link.
+  - The contact form works correctly & displays the necessary response page on execution.
 
-All external links to socials work on the browsers listed & open a new tab for each corresponding link.
+  ### Brave: ![Brave](testing/browser/brave_browser.gif)
+
+  ### Chrome: ![Chrome](testing/browser/chrome_browser.gif)
+
+  ### Microsoft Edge: ![Microsoft Edge](testing/browser/browser_microsoft_edge.gif)
+
 
 ---
 
