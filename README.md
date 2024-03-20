@@ -116,11 +116,13 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 
 | Feature | Description | 
 | --- | --- |
+| 404 Page | Add custom 404 page. |
 | Blog Page | A hobby team member tries a new hobby each week at one of the participating associations. |
 | Login Page | - Participating organisations can list information about their business. <br> - Users of the website can write reviews about the businesses listed & contribute to the community forum. |
 | Community Forum | Allowing users to connect & share experiences. |
 | E-commerce | Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves. |
 | App Devlopment | Create an app version of the website that makes access more innovative for all user types. |
+
 
 
 
@@ -142,8 +144,8 @@ The entire website was designed with a responsive-first ethos in mind. Some best
 
 ### Languages Used
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) was used to add the styles and layout of the site.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - To add the styles and layout of the site.
 
 
 ### Libraries & Programs Used

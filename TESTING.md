@@ -13,24 +13,17 @@ The website was tested manually throughout the project development using DevTool
 
 ---
 
-## Compatibility
+### W3C Validator
 
-In order to confirm the correct functionality, responsiveness, and appearance:
+[W3C](https://katemcguane.github.io/hobby/discover.html) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-+ The website was tested on the following browsers: Chrome, Firefox, Brave.
+* [index.html](testing/w3/w3-index.png) - Passed.
+* [game.html](testing/w3/w3-game.png) - No errors, 1 Warning. The warning is for an empty H2 tag. This is where the question is inserted using jQuery.
+* [highscores.html](testing/w3/w3-highscores.png) - Passed.
+* [404.html](testing/w3/w3-404.png) - Passed.
+* [500.html](testing/w3/w3-500.png) - Passed.
 
-    - Chrome:
-
-    ![Chrome](documentation/browsers_google.gif)
-
-    - FireFox:
-
-    ![FireFox](documentation/browsers_firefox.gif)
-
-    - Brave:
-
-    ![Brave](documentation/browsers_brave.gif)
-
+* [style.css](testing/w3/w3-css.png) - Passed, no errors found.
 ---
 
 ## Bugs
