@@ -6,6 +6,22 @@ This file was created on the second edition of this project. All issues in the a
 
 Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) for reference.
 
+
+---
+
+## Compatability
+
+
+---
+
+## Responsiveness
+
+The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/).
+
+  - Desktop Screens: ![Desktop Responsiveness](testing/responsiveness/desktop_responsiveness.gif) !
+  - Tablet Screens: ![Tablet Responsiveness](testing/responsiveness/tablet_responsiveness.gif)
+  - Mobile Screens: ![Mobile Responsiveness](testing/responsiveness/mobile_responsiveness.gif)
+
 ---
 
 ## Validator Testing
@@ -46,7 +62,7 @@ Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) 
 
 ### CSS
 
-  - No errors or warnings were found when passing through the official W3C (Jigsaw) validator
+  - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
 
   ![style.css](testing/w3/w3_css.PNG)
 
