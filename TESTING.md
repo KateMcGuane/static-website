@@ -17,11 +17,11 @@ The website was tested manually throughout the project development using DevTool
 
 [W3C](https://katemcguane.github.io/hobby/discover.html) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-* [index.html](testing/w3/w3-index.png) - Passed.
-* [game.html](testing/w3/w3-game.png) - No errors, 1 Warning. The warning is for an empty H2 tag. This is where the question is inserted using jQuery.
-* [highscores.html](testing/w3/w3-highscores.png) - Passed.
-* [404.html](testing/w3/w3-404.png) - Passed.
-* [500.html](testing/w3/w3-500.png) - Passed.
+- [index.html](testing/w3/w3-index.png) - Passed.
+- [discover.html](testing/w3/w3-game.png) - Passed. 
+- [signup.html](testing/w3/w3-highscores.png) - Passed. Encountered some bugs before passing. See solved bugs below. 
+- [response.html](testing/w3/w3-404.png) - Passed. Th
+
 
 * [style.css](testing/w3/w3-css.png) - Passed, no errors found.
 ---
@@ -41,6 +41,7 @@ The website was tested manually throughout the project development using DevTool
 | 7 | More descriptive title tag needed | I elaborated on title tag of each html page, & described each once accordingly. |
 | 8 | After adding in a description on the first page, the assigned IDs also affected the layout of the Sign Up page. I attemped to fix this using specificity. | The bug was easily resolved by changing the allocated ID to suit the Sigun Up page specifically. |
 | 9 | After altering the ID, it affected the responsiveness of the smaller screens. The containers would no longer stack neatly and were spilling out over the edge of the screen. | I added a <stong><em>flex-wrap: wrap;<em></strong> to the newly defined ID in the #hero-hobbies-subscribe section. |
+
 
 - Once all of the solutions were carried out, I reviewed each issue to ensure all corrections were applied & no further issues were occurring.
 
