@@ -16,13 +16,13 @@ The main purpose of this website is to easily connect hobbyists with other like-
 
 ## User Experience (UX)
 
-### User Stories
+  ### User Stories
 
-| User Type | Overview | Specific Goals |
-| --- | --- | --- |
-| Client | Create a website directory that connects hobbyists and facilitators alike. I want to ensure that the platform provides an enriching and engaging experience for users, empowering them to discover, explore, and connect with various hobbies and interests. | - I want to be able to view the site on a range of device sizes. <br> - I want to introduce all user types to the concept. <br> - I want to collect user data & create a point of direct contacct with all user types in by signing up to a newsletter. <br> - I want to direct visitors to our socials. |
-| Hobbyist | As a hobby enthusiast, I want to explore a comprehensive website directory dedicated to hobbies, so that I can discover new passions, connect with like-minded individuals, and access resources to enhance my hobby experience. | - I want to find out what Hobby is, and if it has the activity that I'm looking for. <br> - I want a website that's easy to navigate. <br> - I want to find the information I'm looking for with ease. <br> - I want to be able to find and follow Hobby on socials. |
-| Facilitator | I want to collaborate with industry partners, enrich my business/organisation and reach new audiences. | - I want to find out what Hobby is, and if it a good fit for my business/organisation. <br> - I want a website that's easy to navigate. <br> - I want to connect with the website owner. |
+  | User Type | Overview | Specific Goals |
+  | --- | --- | --- |
+  | Client | Create a website directory that connects hobbyists and facilitators alike. I want to ensure that the platform provides an enriching and engaging experience for users, empowering them to discover, explore, and connect with various hobbies and interests. | - I want to be able to view the site on a range of device sizes. <br> - I want to introduce all user types to the concept. <br> - I want to collect user data & create a point of direct contacct with all user types in by signing up to a newsletter. <br> - I want to direct visitors to our socials. |
+  | Hobbyist | As a hobby enthusiast, I want to explore a comprehensive website directory dedicated to hobbies, so that I can discover new passions, connect with like-minded individuals, and access resources to enhance my hobby experience. | - I want to find out what Hobby is, and if it has the activity that I'm looking for. <br> - I want a website that's easy to navigate. <br> - I want to find the information I'm looking for with ease. <br> - I want to be able to find and follow Hobby on socials. |
+  | Facilitator | I want to collaborate with industry partners, enrich my business/organisation and reach new audiences. | - I want to find out what Hobby is, and if it a good fit for my business/organisation. <br> - I want a website that's easy to navigate. <br> - I want to connect with the website owner. |
 
 
 ---
@@ -33,67 +33,67 @@ The main purpose of this website is to easily connect hobbyists with other like-
 The website is designed with three separate pages. This is to ensure ease of use, and for the length of each page to remain concise on a mobile device. It has an intuitive interface with clear navigation. This is emphasised with colour and imagery, allowing for quick access to facilities and respective socials.
 
 
-### Colour Scheme
+  ### Colour Scheme
 
-There is a great emphasis on colour for this website. I wanted it to reflect the positive association that can be had with hobbies. I wanted it to be playful for children and adults alike; perhaps even evoke a sense of nostalgia for older users.
-The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
+  There is a great emphasis on colour for this website. I wanted it to reflect the positive association that can be had with hobbies. I wanted it to be playful for children and adults alike; perhaps even evoke a sense of nostalgia for older users. <br>
+  The colour scheme of the website illustrates variety and fun through the colour palette. 100s of Thousands were the inspiration for this palette of choice.
 
-![Hero Image](assets/images/hero-sprinkles-1.webp)
+  ![Hero Image](assets/images/hero-sprinkles-1.webp)
 
-This palette holds the pastel colours found in the hero image. They are used throughout the website where a solid colour is needed to make wording stand out from the hero image behind it. Many of the colours were extracted from this image and are accented throughout the website.
+  This palette holds the pastel colours found in the hero image. They are used throughout the website where a solid colour is needed to make wording stand out from the hero image behind it. Many of the colours were extracted from this image and are accented throughout the website.
 
-![Hobby Website Colour Palette](docs/sprinkles-23.png)
+  ![Hobby Website Colour Palette](docs/sprinkles-23.png)
 
-This palette extracts the more vibrant colours found in the hero image. It is used primarily for defining elements such as headings, areas of importance or quick reference.
+  This palette extracts the more vibrant colours found in the hero image. It is used primarily for defining elements such as headings, areas of importance or quick reference.
 
-![Hobby Website Colour Palette](docs/sprinkles-20.png)
+  ![Hobby Website Colour Palette](docs/sprinkles-20.png)
 
-Both colour palettes were created using the [Coolors](https://coolors.co/) website.
-
-
-### Typography
+  Both colour palettes were created using the [Coolors](https://coolors.co/) website.
 
 
-[Fredericka The Great](https://fonts.google.com/specimen/Fredericka+the+Great?preview.text=Fredericka%20The%20Great&query=Poppins)
-
-![Fredericka The Great Font](docs/fonts/fredericka_the_great.png.PNG)
-
-  - This font has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, looks hand-drawn and mirrors the chosen style of favicon. It is illustrative, yet has a structural integrity and readability to it. Furthermore, it effortlessly reflects what the website is about. This is primarily used for the website heading "Hobby".
-
-[Poppins](https://fonts.google.com/specimen/Poppins?preview.text=Poppins&query=Poppins)
-
-![Poppins Font](docs/fonts/poppins.png.PNG)
-
-  - This is a legible, sans serif font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more word heavy content sections of the website.
-
-Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
+  ### Typography
 
 
-### Imagery
+  [Fredericka The Great](https://fonts.google.com/specimen/Fredericka+the+Great?preview.text=Fredericka%20The%20Great&query=Poppins)
 
-All images were source from [Raw Pixel](https://www.rawpixel.com/).
+  ![Fredericka The Great Font](docs/fonts/fredericka_the_great.png.PNG)
+
+    - This font has an illustration-type quality to it, which reflects the theme of the website. It adds some fun, looks hand-drawn and mirrors the chosen style of favicon. It is illustrative, yet has a structural integrity and readability to it. Furthermore, it effortlessly reflects what the website is about. This is primarily used for the website heading "Hobby".
+
+  [Poppins](https://fonts.google.com/specimen/Poppins?preview.text=Poppins&query=Poppins)
+
+  ![Poppins Font](docs/fonts/poppins.png.PNG)
+
+    - This is a legible, sans serif font with many varieties of weight to choose from. It is versatile and accomodates all structural styling needs. It is a very accessible font, and easy to read. This is used for more word heavy content sections of the website.
+
+  Both fonts were sourced from [Google Fonts](https://fonts.google.com/).
 
 
-### Favicon
+  ### Imagery
 
-I designed this favicon especially for the webpage using [Canva](https://www.canva.com/). I chose an illustrated 'h'. This was the best way to reflect the nature of the website. The paintbrush icon used in the header was also a contender (along with other hobby - related instruments), however it did not translate as clearly on the broswer tab compared to lettering. The 'h' has an illustrative quality to it, again reflecting the theme and typographies used throughout.
+  All images were source from [Raw Pixel](https://www.rawpixel.com/).
 
 
-### Wireframes
+  ### Favicon
 
-Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
+  I designed this favicon especially for the webpage using [Canva](https://www.canva.com/). I chose an illustrated 'h'. This was the best way to reflect the nature of the website. The paintbrush icon used in the header was also a contender (along with other hobby - related instruments), however it did not translate as clearly on the broswer tab compared to lettering. The 'h' has an illustrative quality to it, again reflecting the theme and typographies used throughout.
 
-#### __Home Page__
 
-![Hobby Home Page](docs/wireframes/hobbyindex.png)
+  ### Wireframes
 
-#### __Gallery Page__
+  Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and iPhone 12Pro (436px x 867px).
 
-![Hobby Gallery Page](docs/wireframes/hobbygallery.png)
+  #### __Home Page__
 
-#### __Sign Up Page__
+  ![Hobby Home Page](docs/wireframes/hobbyindex.png)
 
-![Hobby Sign Up Page](docs/wireframes/hobbysignup.png)
+  #### __Gallery Page__
+
+  ![Hobby Gallery Page](docs/wireframes/hobbygallery.png)
+
+  #### __Sign Up Page__
+
+  ![Hobby Sign Up Page](docs/wireframes/hobbysignup.png)
 
 
 ---
@@ -112,28 +112,27 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 | Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments. | ![Sign Up Page](docs/features/hobby_signup_page.PNG) |
 | Response | - Only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. <br> - Home button below notifcation to redirect users. | --- | ![Response Page](docs/features/hobby_response_page.PNG) |
 
-### Potential Future Developments
 
-| Feature | Description | 
-| --- | --- |
-| 404 Page | Add custom 404 page. |
-| Blog Page | A hobby team member tries a new hobby each week at one of the participating associations. |
-| Login Page | - Participating organisations can list information about their business. <br> - Users of the website can write reviews about the businesses listed & contribute to the community forum. |
-| Community Forum | Allowing users to connect & share experiences. |
-| E-commerce | Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves. |
-| App Devlopment | Create an app version of the website that makes access more innovative for all user types. |
+  ### Potential Future Developments
+
+  | Feature | Description | 
+  | --- | --- |
+  | 404 Page | Add custom 404 page. |
+  | Blog Page | A hobby team member tries a new hobby each week at one of the participating associations. |
+  | Login Page | - Participating organisations can list information about their business. <br> - Users of the website can write reviews about the businesses listed & contribute to the community forum. |
+  | Community Forum | Allowing users to connect & share experiences. |
+  | E-commerce | Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves. |
+  | App Devlopment | Create an app version of the website that makes access more innovative for all user types. |
 
 
+  ### Accessibility
 
+  The entire website was designed with a responsive-first ethos in mind. Some best practices implemented were:
 
-### Accessibility
-
-The entire website was designed with a responsive-first ethos in mind. Some best practices implemented were:
-
- - Using semantic HTML.
- - Good used of colour contrast throughout the website.
- - Using alt attributes to create acurate descriptions of each image.
- - All pages are responsive for various media screen sizes.
+   - Using semantic HTML.
+   - Good used of colour contrast throughout the website.
+   - Using alt attributes to create acurate descriptions of each image.
+   - All pages are responsive for various media screen sizes.
 
 
 ---
@@ -141,69 +140,67 @@ The entire website was designed with a responsive-first ethos in mind. Some best
 
 ## Technologies Used
 
+  ### Languages Used
 
-### Languages Used
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The foundation of the site.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - To add the styles and layout of the site.
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The foundation of the site.
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - To add the styles and layout of the site.
 
 
-### Libraries & Programs Used
+  ### Libraries & Programs Used
 
-- [Am I Responsive?](http://ami.responsivedesign.is/) - To demonstrate the website on a range of devices.
-- [Balsamiq](https://balsamiq.com/) - To create wireframes.
-- [Canva](https://www.canva.com/) - To create favicon image.
-- [Chat GPT](https://chat.openai.com/) - To create written content & general consultation when troubleshooting.
-- [Codeanywhere](https://codeanywhere.com/) - Initial IDE used; transferred to VS Code midway.
-- [Coolors](https://coolors.co/) - To create colour palettes.
-- [Favicon.io](https://favicon.io/favicon-converter/) - To convert favicon image into suitable sizes.
-- [Font Awesome](https://fontawesome.com/) - To create paintbrush icon in header.
-- [GitHub](https://github.com/) - To store associated files & developments of the website.
-- [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - For troubleshooting and testing features, styling and responsiveness.
-- [Google Fonts](https://codeanywhere.com/signin) - To extract fonts for the website.
-- [Raw Pixel](https://www.rawpixel.com/) - For images.
-- [VS Code](https://code.visualstudio.com/) - Primary IDE used.
+  - [Am I Responsive?](http://ami.responsivedesign.is/) - To demonstrate the website on a range of devices.
+  - [Balsamiq](https://balsamiq.com/) - To create wireframes.
+  - [Canva](https://www.canva.com/) - To create favicon image.
+  - [Chat GPT](https://chat.openai.com/) - To create written content & general consultation when troubleshooting.
+  - [Codeanywhere](https://codeanywhere.com/) - Initial IDE used; transferred to VS Code midway.
+  - [Coolors](https://coolors.co/) - To create colour palettes.
+  - [Favicon.io](https://favicon.io/favicon-converter/) - To convert favicon image into suitable sizes.
+  - [Font Awesome](https://fontawesome.com/) - To create paintbrush icon in header.
+  - [GitHub](https://github.com/) - To store associated files & developments of the website.
+  - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - For troubleshooting and testing features, styling and responsiveness.
+  - [Google Fonts](https://codeanywhere.com/signin) - To extract fonts for the website.
+  - [Raw Pixel](https://www.rawpixel.com/) - For images.
+  - [VS Code](https://code.visualstudio.com/) - Primary IDE used.
 
 
 ---
 
-
 ## Deployment & Local Development
 
 
-### Deployment
+  ### Deployment
 
-The site was deployed early using Github Pages. The is how the live site was deployed:
+  The site was deployed early using Github Pages. The is how the live site was deployed:
 
-1. Log in (or sign up) to Github.
-2. Find the repository for this project, [Kate McGuane / hobby](https://github.com/KateMcGuane/hobby).
-3. Click on the Settings link.
-4. Click on the Pages link in the left hand side navigation bar.
-5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
-6. Click Save. Your live Github Pages site is now deployed at the URL shown.
-
-
-### Local Development
+  1. Log in (or sign up) to Github.
+  2. Find the repository for this project, [Kate McGuane / hobby](https://github.com/KateMcGuane/hobby).
+  3. Click on the Settings link.
+  4. Click on the Pages link in the left hand side navigation bar.
+  5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+  6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 
-#### How to Fork
+  ### Local Development
 
-To fork the Hobby repository:
+  #### How to Fork
 
-1. Log in (or sign up) to Github.
-2. Go to the repository for this project, [Kate McGuane / hobby](https://github.com/KateMcGuane/hobby).
-3. Click the Fork button in the top right corner. This action will create a copy of the repository under your GitHub account.
+  To fork the Hobby repository:
+
+  1. Log in (or sign up) to Github.
+  2. Go to the repository for this project, [Kate McGuane / hobby](https://github.com/KateMcGuane/hobby).
+  3. Click the Fork button in the top right corner. This action will create a copy of the repository under your GitHub account.
 
 
-#### How to Clone
+  #### How to Clone
 
-To clone the Hobby repository:
+  To clone the Hobby repository:
 
-1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, [Kate McGuane / hobby](https://github.com/KateMcGuane/hobby).
-3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
-4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
-5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+  1. Log in (or sign up) to GitHub.
+  2. Go to the repository for this project, [Kate McGuane / hobby](https://github.com/KateMcGuane/hobby).
+  3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+  4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+  5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
 
 ---
 
@@ -218,39 +215,38 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
 ## Credits
 
+  ### Markup
 
-### Markup
+  First Edition:
+    - The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
 
-First Edition:
-- The general format of my markup is based on the [readme-examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md) work by [Kera Cudmore](https://github.com/kera-cudmore).
-
-Second Edition:
-- I formatted some of my README based off of [BookWorm](https://github.com/kera-cudmore/BookWorm/tree/main), again by [Kera Cudmore](https://github.com/kera-cudmore).
-- I based my testing documentation off of [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/TESTING.md#manual-testing) from my mentor, [Juliia Konovalova](https://github.com/IuliiaKonovalova/). 
-
-
-### Code Used
-
-- I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application.
+  Second Edition:
+    - I formatted some of my README based off of [BookWorm](https://github.com/kera-cudmore/BookWorm/tree/main), again by [Kera Cudmore](https://github.com/kera-cudmore).
+    - I based my testing documentation off of [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/TESTING.md#manual-testing) from my mentor, [Juliia Konovalova](https://github.com/IuliiaKonovalova/). 
 
 
-### Content
+  ### Code Used
 
-- The paragraph on the 'About' page (index.html), was written using [Chat GPT](https://chat.openai.com/).
-- Any other content, I wrote the content for the website myself.
-
-
-###  Media
-
-- [Canva](https://www.canva.com/) was used for creating the favicon. Their selection of artworks had the best variety & compatibility for application as a favicon.
-- [Raw Pixel](https://www.rawpixel.com/) was used for sourcing images as it had the best selection available in one place.
+  - I followed the format of the Love Running Walkthrough Project. This was to ensure best practice in creating my first interactive Front-End web application.
 
 
-###  Acknowledgments
+  ### Content
 
-- A huge thank you to my mentor, Alex, who helped me resolve any major issues on my 1st ed.
-- Thank you to my mentor Juliia. Your guidance was crutial and made the objectives more concise.
-- To Kera Cudmore, for providing astounding documentation. All of the repositories are so accessible for newbies and I would have been lost without them.
-- My dear friend, Sarah, you are a wonderful teacher, gave valauble insight & resources.
-- My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
-- To my tutor Laura, who provided a sense of calm when needed most. Your guidance gave me the reassurance I needed.
+  - The paragraph on the 'About' page (index.html), was written using [Chat GPT](https://chat.openai.com/).
+  - Any other content, I wrote the content for the website myself.
+
+
+  ###  Media
+
+  - [Canva](https://www.canva.com/) was used for creating the favicon. Their selection of artworks had the best variety & compatibility for application as a favicon.
+  - [Raw Pixel](https://www.rawpixel.com/) was used for sourcing images as it had the best selection available in one place.
+
+
+  ###  Acknowledgments
+
+  - A huge thank you to my mentor, Alex, who helped me resolve any major issues on my 1st ed.
+  - Thank you to my mentor Juliia. Your guidance was crutial and made the objectives more concise.
+  - To Kera Cudmore, for providing astounding documentation. All of the repositories are so accessible for newbies and I would have been lost without them.
+  - My dear friend, Sarah, you are a wonderful teacher, gave valauble insight & resources.
+  - My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
+  - To my cohort leader, Laura, who provided a sense of calm when needed most. Your guidance gave me the reassurance I needed.
