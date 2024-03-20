@@ -13,6 +13,23 @@ The website was tested manually throughout the project development using DevTool
 
 ---
 
+## Compatibility
+
+In order to confirm the correct functionality, responsiveness, and appearance:
+
++ The website was tested on the following browsers: Chrome, Firefox, Brave.
+
+    - Chrome:
+
+    ![Chrome](documentation/browsers_google.gif)
+
+    - FireFox:
+
+    ![FireFox](documentation/browsers_firefox.gif)
+
+    - Brave:
+
+    ![Brave](documentation/browsers_brave.gif)
 
 ---
 
