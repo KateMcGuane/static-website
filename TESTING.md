@@ -4,30 +4,87 @@
 
 This file was created on the second edition of this project. All issues in the assessment feedback form were carried out first, followed by any additional information that would be of benefit to the README & TESTING sections.
 
-TO-DO:
-add image of finished site using [amiresponsive](https://ui.dev/amiresponsive)
-add link to live site deployed on github pages
-
 Visit the deployed site [Hobby](https://katemcguane.github.io/hobby/index.html) for reference.
+
+---
+
+## W3C Validator
+
+[W3C](https://katemcguane.github.io/hobby/discover.html) was used to validate the HTML on all pages of the website. 
+
+### HTML
+
+#### About Page (Home Page)
+
+- No errors or warnings were found when passing through the official W3C validator.
+
+![index.html](testing/w3/w3_index.PNG) 
+
+
+#### Discover Page
+
+- No errors or warnings were found when passing through the official W3C validator.
+
+![discover.html](testing/w3/w3_discover.PNG) 
+
+
+#### Sign Up Page
+
+- No errors or warnings were found when passing through the official W3C validator. 
+- Did encounter some errors before final resolution. See solved bugs below. 
+
+![signup.html](testing/w3/w3_signup.PNG) 
+
+
+#### Response Page
+
+- No errors or warnings were found when passing through the official W3C validator. 
+- Did encounter a warning before final resolution. See solved bugs below. 
+
+![response.html](testing/w3/w3_response.PNG)
+
+
+### CSS
+
+- No errors or warnings were found when passing through the official W3C (Jigsaw) validator
+
+* [style.css](testing/w3/w3-css.png) - Passed, no errors found.
+
+
+---
+
+
+## LightHouse report
+
+I used Lighthouse in DevTools to confirm that the website is performing well, accessiblility and readability of fonts & colours. Testing was done for both mobile & desktop.
+    
+  ### About Page (Home Page)
+
+  ![About Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_about.PNG)
+  ![About Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_about.PNG)
+
+
+  ### Discover Page
+
+  ![Discover Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_discover.PNG)
+  ![Discover Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_discover.PNG)
+
+  ### Sign Up Page
+
+  ![Sign Up Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_signup.PNG)
+  ![Sign Up Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_signup.PNG)
+
+  ### Response page
+
+  ![Response Page Lighthouse Mobile](testing/lighthouse/lighthouse_mobile_hobby_response.PNG)
+  ![Response Page Lighthouse Desktop](testing/lighthouse/lighthouse_desktop_hobby_response.PNG)
+
+
+---
 
 The website was tested manually throughout the project development using DevTools to check for responsiveness.
 
-
 ---
-
-### W3C Validator
-
-[W3C](https://katemcguane.github.io/hobby/discover.html) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
-
-- [index.html](testing/w3/w3_index.PNG) - Passed.
-- [discover.html](testing/w3/w3_discover.PNG) - Passed. 
-- [signup.html](testing/w3/w3_signup.PNG) - Passed. Encountered some bugs before passing. See solved bugs below. 
-- [response.html](testing/w3/w3_response.PNG) - Passed. Encountered warnings before passing. See solved bugs below.
-
-
-* [style.css](testing/w3/w3-css.png) - Passed, no errors found.
----
-
 ## Bugs
 
 ### Solved Bugs
