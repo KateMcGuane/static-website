@@ -115,7 +115,7 @@ The website is designed with three separate pages. This is to ensure ease of use
 
   ### Potential Future Developments
 
-  | Feature | Description | 
+  | Feature | Description |
   | --- | --- |
   | 404 Page | Add custom 404 page. |
   | Blog Page | A hobby team member tries a new hobby each week at one of the participating associations. |
@@ -222,7 +222,7 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
   - Second Edition: <br>
     - I formatted some of my README based off of [BookWorm](https://github.com/kera-cudmore/BookWorm/tree/main), again by [Kera Cudmore](https://github.com/kera-cudmore).
-    - I based my testing documentation off of [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/TESTING.md#manual-testing) from my mentor, [Juliia Konovalova](https://github.com/IuliiaKonovalova/). 
+    - I based my testing documentation off of [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/TESTING.md#manual-testing) from my mentor, [Juliia Konovalova](https://github.com/IuliiaKonovalova/).
 
 
   ### Code Used

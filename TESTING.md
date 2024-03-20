@@ -19,13 +19,13 @@ The following elements were tested manually on each of the browsers:
   - The contact form works correctly & displays the necessary response page on execution.
 
 
-  ### Brave: ![Brave](testing/browser/brave_browser.gif)
+  ### Brave ![Brave](testing/browser/brave_browser.gif)
 
 
-  ### Chrome: ![Chrome](testing/browser/chrome_browser.gif)
+  ### Chrome ![Chrome](testing/browser/chrome_browser.gif)
 
 
-  ### Microsoft Edge: ![Microsoft Edge](testing/browser/browser_microsoft_edge.gif)
+  ### Microsoft Edge ![Microsoft Edge](testing/browser/browser_microsoft_edge.gif)
 
 
 ---
@@ -51,7 +51,7 @@ The responsiveness was confirmed with [Responsive Website Design Tester](https:/
 
 ## Validator Testing
 
-[W3C](https://katemcguane.github.io/hobby/discover.html) was used to validate the HTML on all pages of the website. 
+[W3C](https://katemcguane.github.io/hobby/discover.html) was used to validate the HTML on all pages of the website.
 
 ### HTML
 
@@ -59,28 +59,28 @@ The responsiveness was confirmed with [Responsive Website Design Tester](https:/
 
     - No errors or warnings were found when passing through the official W3C validator.
 
-  ![index.html](testing/w3/w3_index.PNG) 
+  ![index.html](testing/w3/w3_index.PNG)
 
 
   #### Discover Page
 
     - No errors or warnings were found when passing through the official W3C validator.
-  
-  ![discover.html](testing/w3/w3_discover.PNG) 
+
+  ![discover.html](testing/w3/w3_discover.PNG)
 
 
   #### Sign Up Page
 
-    - No errors or warnings were found when passing through the official W3C validator. 
-    - I did encounter some errors before final resolution. See solved bugs below. 
+    - No errors or warnings were found when passing through the official W3C validator.
+    - I did encounter some errors before final resolution. See solved bugs below.
 
-  ![signup.html](testing/w3/w3_signup.PNG) 
+  ![signup.html](testing/w3/w3_signup.PNG)
 
 
 #### Response Page
 
-  - No errors or warnings were found when passing through the official W3C validator. 
-  - I did encounter a warning before final resolution. See solved bugs below. 
+  - No errors or warnings were found when passing through the official W3C validator.
+  - I did encounter a warning before final resolution. See solved bugs below.
 
   ![response.html](testing/w3/w3_response.PNG)
 
