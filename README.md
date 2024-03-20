@@ -110,8 +110,17 @@ Wireframes were created for desktop (1920px x 1080px), iPad (768px x 1024px) and
 | About | General landing page that describes what the website & what it is about. | - Add an image carousel. <br> - Add a map listing all hobbies in the area. <br> - Add a preview section of reviews from former clientel. |
 | Discover | This is the main directory page. It features a gallery of the hobbies that the website is connected to (links not yet implemented). They are displayed in rows of three on desktop and collapse responsively with decreasing screen size. This page illustrates what is available through the website with simple visual cues. | Once data is collected from those wanting to promote their business, club or facility it could be utilized across the website. Each hobby displayed would connect to the organisations offering those services. This would also include: <br> - Links to their socials, webpages, features and contact details. <br> - Add filter column to the directory with features such as "Onsite Parking", "Wheelchair Accessible" and "Sensory Friendly" to name a few. This way people can find the best service to suit their essential needs. |
 | Sign Up | Features a one-way means of contact. This would meet the needs of the website on it's first phase as a relatively static website. The purpose of this feature is to collect potential customer and facilitator data. | Use the page to promote new & upcoming developments.
-| Response | The Response page is only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. |
-| Ideas |  | - Blog Page: A hobby team member tries a new hobby each week at one of the participating associations. <br> - Login Page: Participating organisations can list information about their business. Users of the website can write reviews about the businesses listed. <br> - Community Forum: Allowing users to connect & share experiences. <br> - Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves. <br> - App Devlopment: Create an app version of the website that makes access more innovative for all user types. <br> Booking system for all appplilcable businesses. <br> - Paid subscription for affliates. |
+| Response | - Only activated when the user clicks the 'Subscribe' button for the signup page. It is there to inform the user they have been successful with their subscription. <br> - Home button below notifcation to redirect users. |
+
+### Potential Future Features
+
+| Feature | Description | 
+| Blog Page | A hobby team member tries a new hobby each week at one of the participating associations. |
+| Login Page | - Participating organisations can list information about their business. <br> - Users of the website can write reviews about the businesses listed & contribute to the community forum. |
+| Community Forum | Allowing users to connect & share experiences. |
+| E-commerce | Integrating e-commerce to the website where businesses can opt-in to sell from the website if they do not have one themselves. |
+| App Devlopment | Create an app version of the website that makes access more innovative for all user types. |
+
 
 
 ### Accessibility
