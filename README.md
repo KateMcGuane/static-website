@@ -1,13 +1,11 @@
-![Hobby Logo](docs/hobby_logo.PNG)
+![Logo](INSERT-FILE-PATH-HERE)
 
 ---
 
 
-# *Hobby*
+# *Static Website*
 
-Hobby is a fictional recreational directory. It is a comprehensive website dedicated to an array of hobbies. It is open to complete beginners, seasoned enthusiasts and associated hobby organisations. This directory is a gateway to discovering old and new hobbies alike, specific to your locality & community.
-
-The main purpose of this website is to easily connect hobbyists with other like-minded individuals and facilitators. It allows users to gain quick access to pastimes of interest, and promotes more nuanced hobbies. It also highlights business owners, facilitators and clubs/organisations with a new, collective online presence.
+This static website was designed with a directory structure to facilitate easy navigation. Its primary goal is to connect the website owner with customers seamlessly. The site serves as a comprehensive platform that offers quick access to key information, promotes the business, provides contact options, and fosters a strong online presence. The website also showcases the potential of front-end features.
 
 
 [View Hobby here](https://katemcguane.github.io/hobby/index.html)
@@ -250,3 +248,5 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
   - My dear friend, Sarah, you are a wonderful teacher, gave valauble insight & resources.
   - My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
   - To my cohort leader, Laura, who provided a sense of calm when needed most. Your guidance gave me the reassurance I needed.
+
+
